@@ -1,0 +1,3044 @@
+[{
+  "_id": {
+    "$oid": "63fae5adc139cadac11b3ff1"
+  },
+  "players": [
+    {
+      "puuid": "Qk4e_q9lLFaiusT9lsZe6EKuspbyAYd2qve4D1tzX76iRFnF4bwXS82HqpZKyJaiNRwDOfybnlzIFw",
+      "elo": 267649.9375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "RfRGmr1wv2TOXaLtza6eJs4UFfspNy7LdQ2bwqp0vUclYwvt6ASn5saXG4DDETe9ETFCce51dU5S9Q",
+      "elo": 134257.4375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "8G_Mm_NSHncyzH41DgyMUT_Tk2sH8G3jNXHto0PdCI3gNAsOOgmVZtzeb8E6ZMxI4-PoyCBVViG-tQ",
+      "elo": 192777.1,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "VrdzwMObWTAoJAksMF8r5BBXyGtHrRJ846kI6UwmExzxnGZm7lbeg0q6svM1PC-krrttWbUpASiIIw",
+      "elo": 137208.35714285713,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "PXGYgjG-HFr7zLuheq6DQySqviD3jfC1jjQ9H6a7MUAe3fuCKu7nAz3iDX8EyzloW_-K7VrrQ6FYcA",
+      "elo": 240970.73214285713,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "x2-Nj0X6SFjtapwc9g0x-AXpzFzCybcCWaU6376r6ASaPwmyZuvOvOVtuQP0V2Nzn3SS92rw9sBjeQ",
+      "elo": 15460,
+      "position": ""
+    },
+    {
+      "puuid": "M_S9jJDYU0o25GvhFdDvRKO8574XL110WHMxTxQ1wy4UH6T3zLtBknSQlc1QKvOvw4Wx5tI5OLr4tQ",
+      "elo": 269044.825,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "PmBp0fSj46RQ3UWidGnpzbN3zm3snuIg0yVdK5_NZY6hRrkSgzf4XDXfpI3ttXkQ5O3TUiZfSphLnA",
+      "elo": 12076.828125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "W7c5aApQTRcjK8MpU9_28jdc55-JMGY46B256QedC9Tz_wX86UKC04EMQ_D8bmLvkYdL2HQ_PccGYw",
+      "elo": 11976.796875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "HtCSVV3q5a2znvBS3Zp1uDjL5czOypp0itxXjCvXdDageFYbWx4TvCX53CyMjMss-WSoSIieyZ4rDA",
+      "elo": 8151.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "16mGPYYD8xrxkxwPR_jj48fdx1wCvMcu4tknvn6GjPqSXZcz6ciKRlSy3XRi6ohXZBSoPC-Gp6POZA",
+      "elo": 14654.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "S_sjkp6YfJCpPCRCRL1NttxT1lXw20iaGS2EIEx17TBFo00AQzbaRF2bFi0kqfRsn9IllYYhYWLV9A",
+      "elo": 4689,
+      "position": "TOP"
+    },
+    {
+      "puuid": "0tFlyTZeHOsgq8mz8zRKL6cJQdEk7FuVuazayMOx3zWJ77xqbvT4soSJC27XrcdvRH9_LWLuxCKsZA",
+      "elo": 7539.5625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "8uqt4h_lEXVuMKNQz4iMyWw-kzV7lWdb3333blLbVWrhnAwm2H6-k7cmMXUD8zd9znEpZRTCdCKjFQ",
+      "elo": 10290.075,
+      "position": "TOP"
+    },
+    {
+      "puuid": "uCUkpF-_FacSaHhjcmXzPRwKLqPYn1DyH8v6QlzXl63AY6bTL-kl4Vwm6JLVGPrnYF20KRX0qwLZow",
+      "elo": 7807.59375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "znp_YxaW9Jl0i-ZAY5bstuofuSN8G_KF7TzQj72ZwSPUFeY2L8vBOGaIeXqEkRlvuUZaqXq2v53dPw",
+      "elo": 15845.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "usRN8aJXiROsRFuMCsAAoDTSXn-V9uEdMSk1op5BiSoxSU4RFopOvpBiQxdyNI61CS7rRQ72L55tiw",
+      "elo": 4391.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Gd0tK71cqqVaMqrxsrj4GaZfvQqe-qyODCdaXY3JWA31r_cLAgdzPzCYD4imFeOrvyaYS9_BQUM89Q",
+      "elo": 4608.234375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "bRz3C3VqSAdSJOhsIlKRxhWw4oFIEDaSddPkAouDyW7hQqHL0iM6nJQp3x4CA7JNVEPbyPcI7OSgpw",
+      "elo": 12289.392857142857,
+      "position": "TOP"
+    },
+    {
+      "puuid": "JlyFGeVLFTxWrtajUYmZBJ7E_lvbqcf1kwKvZVWIveV014SIVwGRDUr45sCztszk7BrVGvJxm6pb8w",
+      "elo": 16172.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "9pgg1wJ5uwoUcUQiyEWvL0FPk3f35z_savyaZaJQZ1J-6CdXVsA2wscWZ6rn5m9CWn6xClUu0b9p2w",
+      "elo": 439629.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "uhPRdjgiWYkmSgenX0DP2z-gRTFHO1QCfIoI0hAUmHIDlcUVLR2VbDcp2XjBu2rG7_ALg6Q_eSoxjw",
+      "elo": 5176.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "N-Aqu4rCIfgNrPYh138JlwyF8x12Jvup7JkxNshKRQg1wKxLR8XwO5Q8qMqpl0LI_jDcIB7eAPzQXg",
+      "elo": 20553.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "_7XcZ0_b_YLMhdPad20poV4BitLjZFqz0P1R_QhDyMy78eNwPKqwdZG3KvOfFg4YuhX0mm265a5rzg",
+      "elo": 17434.39285714286,
+      "position": "TOP"
+    },
+    {
+      "puuid": "-pYlDUQEJXakPK2SFCMiD4UaLkmxkfE7aszNYQWLIm1rRgDewv8U259CmFWG9NLQQqiqYt_dhAzIkw",
+      "elo": 6285.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "_AkR_iT1AjOdQ-W4V04_coxzxN3AvYFvBItZ5Me40jr4PjFNLXevN2OkHWeqDzD2MXo36xVPNqmMdw",
+      "elo": 107413.9125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "FpFqIwXxmVHakm61N_MoLe_rBtg3BvFB57iytCEF_ssfZ1zhJRaVKsjhTWFIopSiwF8cSB_EYP3uEA",
+      "elo": 22487.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "0H9qZ0s3Fxlhxtwt9uJNAZ0FTPCygzcgC1vrD1cRuEwhdTSVINadE0x91NftS-djekCLVp3YwYhJcw",
+      "elo": 15225,
+      "position": "TOP"
+    },
+    {
+      "puuid": "PSSgJZb_aChVttNutIHOHdHmeAbJdBXNm31hV7QvVdhtFtQwn9FIxxAq1Zi7dsl83NBxG4388gWt3w",
+      "elo": 10303.59375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "U2UThB8Iskrc_5Up6jBKtxLYmHOSZ3JGZG5JrC0KaF8d_8vV2DQVu1ZfVM7X2kkSiraz5iK_gWfYfg",
+      "elo": 13328.4,
+      "position": "TOP"
+    },
+    {
+      "puuid": "TcDsN788qxPm5n9NvXI8tQzZbLLcqwCEogY4GpdlMzC3dTzc8i34dV32d8KTs_86Ljw7CcL_1qCb2g",
+      "elo": 19706.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "mOGzmpsl-fvjIgZr7W2rCdetQtpK7dahAruTOwNC3-0LOeTk97YguyMbEU-zwbX1UqM5dUGounrq_w",
+      "elo": 21409.071428571428,
+      "position": "TOP"
+    },
+    {
+      "puuid": "og97dUVzpSrEkdEA-uNDsHc23LLyhqRcrMNLo2KvEIZyk2_ATOt0oEPWUWTavOY5S31KwDZv_r9KxQ",
+      "elo": 11478.075,
+      "position": "TOP"
+    },
+    {
+      "puuid": "yt_vBqZ6xAxk7ShcnyRu5ZYmQAzgyu3vZ_91MzWGn2TsilVD8NiGCiuJAEJHGAyLu20JU4agLAVHkg",
+      "elo": 16514.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "lNdrPpvCNh8yjEOL73nTFIjx2PbCEIjqLlCw0n_pf6SSl5LgMMHCeDpGGd68M04WSf2kah5XEzsKbA",
+      "elo": 11950.125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Ua13vRWrEbpJEK4-5Dz-4Xb8Gf_Prn-HMBzBX1FBukGyltrlr2_AA01QSIPPHQDy_-X_TmTVUEO8WQ",
+      "elo": 10772.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "IsdNxUdAx5oWrH5t0pVGJ1lvcYrUNVvZua6zdbgZ6T8vcBa6Fh63_eSVVBrNN3QCwFSXPzopxhxW_Q",
+      "elo": 100200.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "V8KXJiFRVyZ-oA6qCW7mRxIVtFJ2YJ2S2-Pd8aB9I3J7yxcehIWaDvMpwq5ekz9_RXMumNAhJxVJBA",
+      "elo": 6971.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "PG5pgCzPHPjSU7eaAfeZxPs7bmIYMd8D60NV-EFfnW0WKOcJ-ICDCWieakPhotV2LE_4fBXadFlhTw",
+      "elo": 7839.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "sdoaZYB6MvrRjBUwjuHZyKqMSySmt2loBQ0Xf6x79neIwI4AgIgr05Oqzc1kZwt9lN9b2O_swT9h3g",
+      "elo": 6567.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "rvug7NhwIsQKQxiIHntEmNLUTvoWAB3l1VCq-CadXnQN3kqlnii2I9iwPG2nnAvw9gKUgZtL45UM8w",
+      "elo": 10873.6875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "u_n4VdToHij5w5NlvKeEgtCMmZf0sKruSW0eh6PoTxT9ph02z2bs2P71DBvpKghjmMT8yK-ID8gkbg",
+      "elo": 15254.925,
+      "position": "TOP"
+    },
+    {
+      "puuid": "7EjK9kZPdXYjhjey0IlxddrqfG_1Dd4hi4f7YxgqP5lEcdTv3n6KwelpWZFOrK62NTxsLT-laKD_zw",
+      "elo": 10731.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "gOFbEmyS3xA89hhRR4Nr02P24ttMIpRWVu_5GZVcYS-Zs4whtKcjwqSyzDi5xNiPeWs9w7ZxV0KqlA",
+      "elo": 9076.125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "vuexpSX71ZT_NZr3WNyuUtC7FZ9rwp7ZD8g6woWtNCzBCJh47oB8xsutPlLbvIuWgG9UMjzLpHZVMA",
+      "elo": 7362.803571428572,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Y5gR1nxU69WsXdOny-cs6uaumXrLfdDCCPsVeMlz_nQwi41JKJ1kRQQWX9dXRt9K_bmZi_MRpSXoEg",
+      "elo": 5501.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "WMO03e5thzSkUcU2HHiseEYRFRIVxMOnWIwADjghWgcO6Ux3lqt5yKv-VAktlpFtQ9gNWAv1IJq4aQ",
+      "elo": 8001.5625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Z6Tw0TUY00NvrrFzEQQvSkXDG3QT6ge_4dVtLyHqQOyI643ecFKDvkayoQttxQgcpZ4uqUKx-fpfxA",
+      "elo": 15809.357142857143,
+      "position": "TOP"
+    },
+    {
+      "puuid": "ONZ1czQRomNRsYLCVZlx0FmpxwVTc9jOjHF2RyRRH4b8oW6bYcPmgNs_gbH0_izklLsdmwRwX2Zwiw",
+      "elo": 10037.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "sBtr0zJYVgYvKYH6yBVCOOlFIe4E33csfLAI6jPA2j0QWNbj_-dfS_yFJQJAfk0nNMaMF4FxWuR-PQ",
+      "elo": 21648.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "cjbqpKbEosx5oxhz-MrSPcdMyHUHbzdjIHpOe3WxNLELT4ofu1H3RkilibIQNLkc9siKy5oFZDXSsw",
+      "elo": 14268.1875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "carYzxiUSfhu78seGTtESxqIqxllMEBGN3tPBftabESWJ8jAwV8A16z0RaonIzAlOOBwdS2WaAYWJQ",
+      "elo": 17483.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "CKg3FQIJDQYGvw6209b8jOvQkfjVZ4sUOAIPsGgHxTA2HEvsxf7IwdQrpQ7a1MXZc64WfbkBNxZrNA",
+      "elo": 9349.416666666666,
+      "position": "TOP"
+    },
+    {
+      "puuid": "dcfU-kzyr2cCfaNin9JFg2c1ESM7VZYlYa4IlbXikC4si6zHMCbdiRZfamth-jaAgmDdvN7U_hm4Tg",
+      "elo": 173394.125,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "DvK_u5Dp_AH8vLBRCRKIyMUTP3Nb0df5NMAn8E19fn6EyifiM_gomex56zwIoDS48QjzN4_OBiw2OA",
+      "elo": 30358.25,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "ihvEq083PU2tzM2w5me8jCUExylSAwFKoj_1Ff6AoURNazQVI9utfvx-g8K2S2otvH-p-FWrIud3bw",
+      "elo": 229966.0375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "skv3M4CsJKg__3tmGPrBA95oTr2JHlI6w8WbGR6fiYidfsFs7w5f-A2fp0Muf6ucujxeB4lOr4Xtlw",
+      "elo": 125712.9,
+      "position": "TOP"
+    },
+    {
+      "puuid": "FbCB9yauJD6cvchzCNv5kaGEkH__2mHSvTRX7JdCQ_UHl0pUo_5wyxFsqIbyCsIekjlA7xMG3JUknQ",
+      "elo": 85886.8375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "yimNdjQAwT5SYhgG6Ivu3tppScmMOQVKs0jd2zJlxCZ3KnEXoClsI7653BJ0gh6oESaSKrO-9VAXUg",
+      "elo": 186547.5,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "8dGiBOR2eEKa7-li5snotIJj5zIWFA3L98PJAMY2ED1pYdpfwgkqUD_dPQwpnAUu1yBwApc2__xduA",
+      "elo": 241254.375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "1oV7n_y5jSUkQ-YPbZWHS8n8rmQfO4AehTHRChFIGqLr1PdG6Ad3bPNjpIXs4FrO0pbxKKi_uQEFOA",
+      "elo": 250922.10416666666,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "wWW0m28pYMjzd24r5S3LtfJBEN60Ueg1NxAl0z17dhwL8qRGD8-213SZHBTlLmRKGNTEZF_P7MYKpg",
+      "elo": 15345,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "X2fRsIuf8JUKloBOw-XqliY9fg_4TIK_1jDxc-ngMYU1_82-MuIZtRaR6l7WjTjFV3uF16D8kTNDRA",
+      "elo": 253405.725,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "jHAcnv1NtP0znSI0R1KGZUsCJrvw80hJQr3hPIymJx4c0hQzamJscobtbv9QNQ4k6vCg-7xmw04a0w",
+      "elo": 163956.0125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "boVJIhSnTIkxH9jgrRcs2xuOW2-nYVV4BBRZ0v5xTuLdaXwU4hqGxy0y-2WYFHNjRQE4w475ujyKUw",
+      "elo": 17861.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "BBrXxgYovB04gLfl10WvNlpHqezI3MYtNiaaQtXr8-C4bVRreVNGN0MPH1Dkym0IrZFScR8ZGDV9KA",
+      "elo": 13460.25,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "eMVLOV4hpNG39B0wOombnYLDHstnbaAqyU3za3A5lgRQCsTErmvG9PFdnGC7ekZ8w1Oh8zUcV4UXYQ",
+      "elo": 5805,
+      "position": ""
+    },
+    {
+      "puuid": "PVxLwyjUIcJi2JPvz32AdXDbPZ3TeJLUkq12cPuuYoRdb5Ydl3LMuPDp71JGULAnhALNpnJ9nq_AWA",
+      "elo": 87460.125,
+      "position": ""
+    },
+    {
+      "puuid": "f0vZi8WIDVT5ULPyVpU7Mw5mj1ey_GpFSB-jGOrE4j2wZOiTdpVIHYnN4N_wHGSdmpH0uiACSOcGYg",
+      "elo": 5710.725,
+      "position": ""
+    },
+    {
+      "puuid": "du2yZp2HHH-j72-1AD0SDa9Nyyl6cCrqgGnO6AbVrK6Q0iSuNTWgZEBkp7NoQZR7HVAM8zFcOckTUQ",
+      "elo": 17996.825,
+      "position": ""
+    },
+    {
+      "puuid": "gqHQfE952CXKr95OaWWjAkEPsD0W0dY0e-dNoU4Rm46elOE9CLqTgnwXHoMSHirGfPu9bvOWnZFTXQ",
+      "elo": 10370.6875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "9saP7Zp3P7ZEf43u6PXDRPZjqLrhA4E8pjulaMi41wmTENabolpWuhExSQs0BZ2KGzC8qJmmZlBwGA",
+      "elo": 15060.15,
+      "position": "TOP"
+    },
+    {
+      "puuid": "-gH8PHfurGcoB1KfASHymG9AB0C0fuTFVLAQj0fz25JKD1r_zjgvBzhRbqb-nCJdJBRR2F24cSI98g",
+      "elo": 7451.775,
+      "position": "TOP"
+    },
+    {
+      "puuid": "kWTAOpWmmS2WdRZZBtBCkgSms56fI5QEGaouq4iw7EWjcSwcBQBm9Iq4AF7rz64X7EJ-0pvCLKRn3Q",
+      "elo": 7793.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "2AwHdlNuNjNYrTR38FnlxMhrAGZOJhJeP3bFznUmRzTl2ILwumbyJpC803pJUCfgO8aky7EPB4exEg",
+      "elo": 11000.19642857143,
+      "position": "TOP"
+    },
+    {
+      "puuid": "4Ukj7wTBo_HltLiNLFeeYxKXQfA0g1gbvh4flU42MCIhxIm0maWM4-aHntZ36f5zZbn99arnZm8L2w",
+      "elo": 3834.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "oucTFwBleZdyL-X8Kn6fDYcg6o-8L0qcdfn-2xGL4lFMlgSPS3uszEoVla-1zq2KQEiAp4B5zq2d2w",
+      "elo": 12340.3125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "4NQkvgYEpsiRONSTj3DeWATA3dKPXrz82fhAPCW7295bRJvkh22GWcWEtrEc1y4QzQokntLm2ZaUbg",
+      "elo": 78289.075,
+      "position": "TOP"
+    },
+    {
+      "puuid": "154mlw8Cd7vaCoQo7P41uO5b1RfFMJBjpzpkSGMS6-8wBQ_Umc7cQptrHEa0CorS2sOZzcAL0jWbXw",
+      "elo": 5065.125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "mKQeC3rEJbhLJtBg_zZ3ud4H14lAem1EV-sP9ydZxy64sURS-4iNVdvM2C6tqMbAQcPKfIgMx94DUA",
+      "elo": 6835.453125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "SjERTct6qPSRdm2r_AMVZpKUwGv83IQ1qexs5ClPMxGRffXYVUwwAECjobS_75SnR1fSw4SUCpQGXA",
+      "elo": 2906.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "HguLC5saIETKgj_2cbzYndHlSyZEd8ugDKbEYPcL9bkaFCkEdY5TvTaX9VIi9-ubX5J32iKO__LOSg",
+      "elo": 9074.55,
+      "position": ""
+    },
+    {
+      "puuid": "Rrk8b0kxuSUDvg7cIup_Fk-EBaRrtAr9hItfHBd6oZOp47k6JI5COoHD58JKqs5E8Jt_pUTQPUIJqQ",
+      "elo": 9140.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "lcDAnyLUcgXV6OzqABmrD3jgAWweUBr8guIyd9BEvDhHlTrgpkWd30SnyNd8ekrUsV0YSK3jbMuZNQ",
+      "elo": 11029.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "KLT0kwTwVdjlCb8bXGlHUaPpTY5x-mVK00jWdVXelMAX3jUxurXEbQ_MPfOrg-u772ZEPPTZ6aOppg",
+      "elo": 12353.775,
+      "position": "TOP"
+    },
+    {
+      "puuid": "lqClYLRwNNP__2mtZA2IYYKZr8L8Tvs74kHdt9wKol-LSbKNthk1lgNMISnCv6jzgtJXUrg49Oq6Aw",
+      "elo": 4654.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "ZZhKhZnNHe16lrgDp8Lh-3zS6oJ1_tPl-DNUHlsD8cmO4f8wKC-xTIi_fJGRnXYTZazP00LPqiMLUw",
+      "elo": 12135.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "6Ua4OebVVKQnhVhy4ZkUw5x0Vk0pYjm_lSi8mwyOCLjW4j2TLSSqWKEl9aI9p96wyo12nPgXJ66Dpw",
+      "elo": 4807.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "lLl-_PtzvVO9-WgpwqtKPjg7frYy27dHMOtnTVhAUb-ubCMcpRXVmjCpnC4e0beSaTb8NZvq9SlOCA",
+      "elo": 9638.765625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "pg9BmDL9M3WaxASwUw_wAwl01TI1ss6gQfut9iiULp276lAuCHk-3IKzxN3ulja5M8WE5xQev1yTWw",
+      "elo": 9164.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "psaeWH3vEteK8qSxc4VKvsWG3s2RQkPpyPsgP-C4k_-P2ippCPtlLqOCRp9lfE3Lv7bSQaqtaWkNRA",
+      "elo": 8685,
+      "position": "TOP"
+    },
+    {
+      "puuid": "npauayHptBKw5GFuZAYTUhTq7wjXdfFsMJd571gsVrAFjJHMIbJoyAOT0er-_W7JjjW17AlLDQ9bPA",
+      "elo": 12579.046875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "XjNBnS9OtbYQK4aFn2Rk5z9UIRoCmKtHG8pn_HPK-0ATj2Ep2uSKX-JKWbyHK2gK6m-taYyiyEP99w",
+      "elo": 26309.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "rp0sPLpWoPa8NCu2ewwIKOYXL5Thym8TBd04cGD7udORNa3JDzz7Va-qPxpMmutwcGzlp5U9y19B-A",
+      "elo": 20327.85,
+      "position": "TOP"
+    },
+    {
+      "puuid": "HTUoWRSyR_3wIxLovbHKVaPwfL83_97kWbdisSEkmRjJbT1N0kJlmkkRzh4JQcwVga57NLRZV40jpA",
+      "elo": 12042.125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "jyRfQH2r_mV-pJO4o7C0MD_bl0XiJReKjywZS9ghRRWgfuzjSiePGQbgLeuzwDqoRb10hyQ1QFwlwg",
+      "elo": 6658.59375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "00WSTtyRp_lSvjTeZnVaIccDJl18aBBINRmykbaeP9Isx7uUFPPyxx15KgCcw-kLYsuW6LLnF6ny5A",
+      "elo": 3710.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "2NZOo6HfvqYK1yeIGQPbGqOWhKMPhTzzgjBLCjiIm1v9s-CbC28W1Qqip3zla6dEvZvGRGLFtDQL3Q",
+      "elo": 6203.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "TPnaapu3vKHxasDbqbQUTWu6cEuwuSFX8reyKQrBqrrsSXP54Y3rH4wWzKsIRM9vQlRxFNSzwaG4TA",
+      "elo": 5201,
+      "position": "TOP"
+    },
+    {
+      "puuid": "gLGILc9EDf3D2ZzNhai8TQYJtkqFCEaFz_r7jHg0sgX-oE1WzrU7dK88kbmf1Ge1EXC2wxxYYH1xXQ",
+      "elo": 3929.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "JUj9Q4Rj98pyyrrJFTpNkXTa3N87NO01LuUYV_LZFog7Rigs-dXVThCdPvZOqtaHa3BcovHrkRTUZA",
+      "elo": 8247.5625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "LhKUxpxgT7WWvXhzBj2zIzJVudBpYPMUUrxyu-PzDS-nac0ia7sLcO7n6mn6sway-jRIggrt3DExFg",
+      "elo": 18626.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "ZcGfn7CpPJ_jS9UduY3Pvll6FyrU1YinuARiLIkHQ15TjnfumUoLjSTPdUSR83u2h4q6fa4mhhihPQ",
+      "elo": 49171.3125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "fo84YyEQt8Sq76R9dZW0GhdHX1XEPkMtiWo5GA2RAYeZHvkJDwrO2qf3Xg67oGfmq13TZUr3ILjkhg",
+      "elo": 23213,
+      "position": "TOP"
+    },
+    {
+      "puuid": "XpmGiCnXHN0djq8YRv9zrOPh7dH6BdX36NMxCbGgUxQw1K4P1N5quY5llKL0HjGm3eJ_NKF3u2kRbw",
+      "elo": 18911.6875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "laWaizwZhIuC4Zx-TfCODY-U29xGkmlOddZy27ASyNdPidoZQ0xqip1J3-DqP69dpfSjA9dI-n3QbA",
+      "elo": 23591.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "j8n5DEJRqCHmvkbfj-w-1MINqcTH9pD5RSm8xh3URVk6OmcZ3g2T0DbUfJD2_dM3aCk327K1EZjR1Q",
+      "elo": 23438.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "gZFgLUvyvuTUvBiaOcx1tsXAISbHQyu1mdBwFdDzCcYJ4No5JfapZbaEDRusBhF9-T_Dv4F93lKdQQ",
+      "elo": 17372.1,
+      "position": "TOP"
+    },
+    {
+      "puuid": "-bvBteSJUs_c7J5NnEC60pvqR7qYkaLGtXbA1Yy3Igy1xX67Vc4pKZwFeJjGp4sCRCxxrjTKuzwGBQ",
+      "elo": 17450.7,
+      "position": "TOP"
+    },
+    {
+      "puuid": "6oDvzsk4cL9AW8oIZPJJe4rOO9g1rjvzyAfLZTZPhP78yq9z5-QvgIrEFRGQQ4MFUgjsQTKDwXqIRg",
+      "elo": 11996.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "9urArBn_adU-XK2KJMmjUGISdKTnW5mO-EUzuacCIGKQ-Qv6EzkuNecJ822dQ8viO8sP89LK3J5veg",
+      "elo": 42150.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "f1cpu6wOMy5ve6945Wcn4amXoTmi6R8SDlU6wngeRNC9uJlnQwWiMF34Q8oDq-OTbW0e53UJ0Zwo-w",
+      "elo": 7196.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "b5vUFwLoB8rzoRqTwXunM0c6Q9AiOJdc3I3yLO7mNCRMkxHiQYKJw5_RYElDOVmBr1hWtId2JMZW8Q",
+      "elo": 43651.5625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "hRuEgFatKZHXtqQH7oyxx8JeiCgBwtlcwW1lEtWXfujtrbd3eg5cC9vooZ4qmVzaLBwecXRH07fXMw",
+      "elo": 15039.984375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "20QX6KB08XCpHUcUVfoTpRYrCkWovtlh_RKUBsJ3qOkS9mWSgGqUUX18S8_qLgzzQRRsfMZN-S2ZZg",
+      "elo": 13579.03125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "MKDR0eUrCQqWaJl3t3hrybhoZHdN6SoyE1JNVLtrZBeaTHluaMuGoFn49PvXdzS-9j-OsOa4UiN8lw",
+      "elo": 10878.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "UQSOETsGFszrmR-audOAKDzoFsFyArtBS5Hwo2jlBGezTxIT346r9NdeW0fb3thImnXivsMbqcRn-Q",
+      "elo": 10133.7,
+      "position": "TOP"
+    },
+    {
+      "puuid": "L8sH9Eh7fo6X6LsIFe8c9KVb-FfNq3ofsXLkun05HMN2QOEM31JVirw5pWSql2_lz-ieJkcNuK80wA",
+      "elo": 23274.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "kCZYAfdHPwonLwkbaI_648CGEQueuke-q07D_1B4agVWIIE-BeZKB3Dom8oYghZk6H4cSDk9PmdHDQ",
+      "elo": 33868.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "uifGDCUXFlmU432rSYJ5kR9ICi5iX-lhZCPtPmg3a-kG276Kzq6MpitXgMEe389jKPSP_IQhAO1Eyg",
+      "elo": 14395.92857142857,
+      "position": "TOP"
+    },
+    {
+      "puuid": "d_QkSYEetylJEuqDjwp9bm0LvU1IoUyM57_0gw64fZySZeqkSnUTs62ppbR1vI6EZiw9InskZXGyGg",
+      "elo": 5881.5,
+      "position": "TOP"
+    },
+    {
+      "puuid": "YdWSWVpW07BQm3xFhsxfDg67mnBAEeVXdcVY86jSugdsJ9w4eqO1FA5fQ3WKiW24DmObFSyFjAxRoA",
+      "elo": 22954.3125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "I5y7NQG2HbAuvY-Cc5bZ5Y73bHXjW7NC1UKbLuoxRWnyF47sTVRfqxfs2zjnZQL42Ajtl2NWiTaXtA",
+      "elo": 23982.1875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "6SvgJGFygpSMNt7tvJw_urWIl829zUoMzEvu9SUDc96pWmYDWTq4onnhA-qrng6bsfN_nLSw6-Arjg",
+      "elo": 7764.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "KiqRLr3UUmmZ54RZI75AK7i19LRgq47qBIBc7o0sfMw5X85m39ruCpb2DNE_4oSm2irVFoBn2khCLQ",
+      "elo": 11378.1,
+      "position": "TOP"
+    },
+    {
+      "puuid": "sAmcf0uIOT7a4xpJGcTxeqD1Aj4bejWB-NSkbu-nL3LKLnlaDOzNN0ezwegWj5SC-i2oF-J6tk7UnQ",
+      "elo": 4019.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "bmYl3W710Z4YqCfcXzpCg7V82-s5wOKMg9pBa38AjR9OaZrhkA05TgSbFU4gssvqZHe66VyRCw8KFw",
+      "elo": 6421.2,
+      "position": "TOP"
+    },
+    {
+      "puuid": "kOXnRbua0ZXMcC4cwO-jgMNAL3zf8NtVOmGz7z-feheujQJHBbPm4kPJ3xj_bHUXJmhUF-KOpstvRA",
+      "elo": 8222.839285714286,
+      "position": "TOP"
+    },
+    {
+      "puuid": "sMXv0vFCF9A0tv1PgCww2lG-iql9WEEfuHFmVCxaa8K8YZH6hR07EsQd7nUnWNCmiQ8VYLjrBexl9g",
+      "elo": 34545.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "7dSmVhYVbDI--eIf0DoNiaNz1-JJe0DBByy3uIA0iugiwLH3eTAKOlYiMJV_1jmzkA-5AYCcGZ1adQ",
+      "elo": 9627.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "b--xsEKFy5zewGLIFLigBzVpoFrcU0ylhHMHUQZfwOjS0_VVn6fitxYkEk8_cL6x7p28bk1Vh8wYfQ",
+      "elo": 6401.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "4C0w4UFynXBCGTx4mgCRwUXXk8bKvnmiTy0CAgl1iyndD-6C2DzIRTxffk4nzEheWPj_uMuDXIKRHg",
+      "elo": 14066.325,
+      "position": "TOP"
+    },
+    {
+      "puuid": "vPDSV6LQJ-teBiZr4XoFyAIzTGQhFpPR_U4AnlyGjWVB4xOAAbjWHk5GeSvrwrf7BvVCWKG8Aqxhag",
+      "elo": 8783.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "KWebjgZ5QYhWqs4LDwYHkoOwXGeUbTyxLUxeLUU1Hw9W2LeAE8Ugl-ItYJT5sq1ecSg_5n28d9H42g",
+      "elo": 15927.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Cu5WhvizfhmE4PTemL2rI5TbbRKI3AXrE30u56vdnKaCFd3vqrj-8dgSbCYe2wEXPTLKTcsPKagUyw",
+      "elo": 12832.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "iQe1igI5RJePTvQwUFGY5-OEv_TtlV2AsLAUYW6oxuz2R-Bk7YKzWLkLTk203t57aRnUTPNKFP-wEg",
+      "elo": 307547.25,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "NBMt28kgLtDwsUuLde_ZvAhHrZwugWkAfvTxFmKo1QmKtKYAHed4IrwpYd6c2wWdGY3aokZGqRWRyA",
+      "elo": 14711.475,
+      "position": "TOP"
+    },
+    {
+      "puuid": "1RngirJN6wIMhPMxYQausGrN6SzwnLz6Abr80WgjlAcUQfWe5S-ZpY12c-GI1jm4mIVPlb_YHzwmMw",
+      "elo": 20706.825,
+      "position": "TOP"
+    },
+    {
+      "puuid": "a2tkOaahbY0xmoib86fRrih_4lYX1-4fmRUsPFs3Lv3HXN6XL-2TvYULpdVJvrNZY6A0JiVbNBdvhg",
+      "elo": 16149.46875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "NtpRyTfZYL1WmYzwNthEZ0naRguQXoqTahPBsPPF2-FdDAe6ogjQa8gmpo-jQAvNBt6KYUpacMj1iQ",
+      "elo": 6218.859375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "YwmTM37SBMKHu-IecGpn1C15V53LZSGNKj0yjTh9poeB9QNefhJoRYNmVw-Plhq2VLdQRZy5daliyw",
+      "elo": 1667.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "XmNhJnNdYWuATZX_g11BgTt0s7Ey5Yh8-R_HLVZVbPEwllk99WRM4jcWmvY3L3vMbepv-0-j6RMs1g",
+      "elo": 2828.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "7EFQ8zYvelZxP0PBGFslfWDaYKi3ifN_zjHcu_wSks18nfN6BAjRc-6_FSrUQGDBy3DZ1R4Z9w4uWQ",
+      "elo": 109708.125,
+      "position": ""
+    },
+    {
+      "puuid": "Lgi9ocjq-nYE_kaSDaDxxvJekJQxs1Z1pFy1D8TgQo9vNnVurgjrckrKghu9IhGA8igrzoCVo2tJSg",
+      "elo": 88210.1875,
+      "position": ""
+    },
+    {
+      "puuid": "lGRfJB6C5OBgu5-FNwrmQF7EBnBfCq4nfvCDoFOVbEN7uTU2Vc_DWW0AlDL8DMMi4qcndrdDipS7lg",
+      "elo": 4163.25,
+      "position": ""
+    },
+    {
+      "puuid": "mGGUyuUD8D4pvNAm-tr1IJHbkaAvobozhFrUjONvIxwiup8A1LrPzQ1vEXPdTjwXFPJ4yDyD5dzXhw",
+      "elo": 101830.13888888889,
+      "position": ""
+    },
+    {
+      "puuid": "d6BIIRRbCbquTwuZDkR75n7rLO3EoSYWWk-vhFRbwFdiswCfKuEKI1Ygjg93bBf7Ji4lJyqozSdnMQ",
+      "elo": 99659.625,
+      "position": ""
+    },
+    {
+      "puuid": "Y1f9__wVws0bQf_kgLuEU1abFHCa97xnORvh_TN8DMfT84NsSghaAoZbnnVDZWFvwqdlzl_CUR8qfQ",
+      "elo": 72540.25,
+      "position": ""
+    },
+    {
+      "puuid": "s9bbUUcFZE4f7xdkt8wpDbGtG01JTfjIAKdMMbx9_ZM1RVf4qsyjyCCuy4YziTy_ubpBVz17uxJhJA",
+      "elo": 125979.9125,
+      "position": ""
+    },
+    {
+      "puuid": "Iv9631Px_rEty-12orUnfI0JZw3DKt3Siyyb2X1BLIMemmyxwrPDTsnig5m_WJm-NULOJXR0EPy4tg",
+      "elo": 89439.625,
+      "position": ""
+    },
+    {
+      "puuid": "jVT8r_EZ4e6Qld6ZIJ7m-Tch82nGPs0d02yjnoe_knCveeJGQtNwKztG8UOkszzqSpnT-wKeV3F0SQ",
+      "elo": 151398.375,
+      "position": ""
+    },
+    {
+      "puuid": "cIOAYOiRFJgwscu-at0-zjN8o4wFivAKU9tNxXvHJzJwIq6msRrYhQG8CsEsW_Ff3_sOtAmazuLs0g",
+      "elo": 14387.4375,
+      "position": ""
+    },
+    {
+      "puuid": "c_epOxzQmzHfjHfj03oJbDt61duesoaU707b5sstlXRUKI59urA-smWnY8ygegIS4ov0WXGOEAgqfg",
+      "elo": 4196.4375,
+      "position": ""
+    },
+    {
+      "puuid": "MAqn7151rZvx4ktU1xceXYSpJL8kpB3mu_Zf5pVTqkOAG122CWrC6QMAWhA7Hd3VuwpWRnonrjz5zw",
+      "elo": 11407.78125,
+      "position": ""
+    },
+    {
+      "puuid": "ybs3HFogJFiOSOcb7ibt404HtC0gX6xXhARE2U1EZYQI_d-wE78ZnPIz6qh1yeK-rzSVrzUQVO_iUw",
+      "elo": 9536.5,
+      "position": ""
+    },
+    {
+      "puuid": "DoPv-6Mgt8e3xY8wOMEc8fsh6caHJ6RgyaqmPphRbBdR3sjnhCBTPDmVZIML4CR0mJi5G3t1ts5amQ",
+      "elo": 9995.4,
+      "position": ""
+    },
+    {
+      "puuid": "f3x4qix3dsG_sPmLOOqRK0sc4u9MIoHhYWbbAkUOIvfmpDD7okXjl8Iz2dP5GpS-vec_zx-52o5JGA",
+      "elo": 12990.75,
+      "position": ""
+    },
+    {
+      "puuid": "uxHBzXkDFDtJBCL5M_nj1sb3ebhJWt88exJIPjG5G8LeYZ0o2_F-BhpB0FO6Kk4QRZSKNo6pjG1-ZQ",
+      "elo": 13025.75,
+      "position": ""
+    },
+    {
+      "puuid": "SowkuO8eSv3i7L-HfvMzy9hKd3xa_WE72bfa28vjOik03HWVmDAKOCD8iP-dCRWEehLJg4sVf0_GSA",
+      "elo": 11515.5,
+      "position": ""
+    },
+    {
+      "puuid": "8OGfc5qz4UwVL5EDyXjmpRH0fhgk3UlMKsyv4ep6mFtH7gqljT7FgsG1-LiB3AbuAli7ewoz0MqgZQ",
+      "elo": 11109.05357142857,
+      "position": ""
+    },
+    {
+      "puuid": "hOyqb51URnkuc_zGBmfe2MuZLVpjQvN5nQgz06osjr_fdxuah42eBSeafTw436yvoS5nDZdPPA_mBg",
+      "elo": 12836.775,
+      "position": ""
+    },
+    {
+      "puuid": "-j9it6U2ZchOCj9rfWjMeIfzeo_Y803HyyrpVokbizoLEFnh6SzbBoTDLDkDuzH7vXF7P4RxBa1szQ",
+      "elo": 9907.5,
+      "position": ""
+    },
+    {
+      "puuid": "ICAtovQkgXC-yovPIPoBhUc8H6xVZGs7eKlXOpZ9u_bdcJvpiOV6Zl61rTTljd3LXPRInqbSYwLtSQ",
+      "elo": 14464.8125,
+      "position": ""
+    },
+    {
+      "puuid": "olbiksiML7IX4wfpLITtkJEOXicoWrXUuX23Z3-RDd4EVaGgdImzcaOh5uwjk3kNXx_TgqZ0d506Nw",
+      "elo": 23410.6875,
+      "position": ""
+    },
+    {
+      "puuid": "Qv5KWHU8ca68N3mShmE3fbijEVGcl9oPZg7lur5BlD2kMEaRH_6mLKVAscfmI9xMJgHiJ0T-sf2VXQ",
+      "elo": 9221.8125,
+      "position": ""
+    },
+    {
+      "puuid": "fBivynMHhUgmCeAFBLtYxPFRQx1ojOowKRNfIC91fk7V8kHGJZIYegA1pHR9QoCZeoH7f76yThcmbA",
+      "elo": 39752.59375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "alXXKZP1ggylvsBC5zVRV6UBReXHe28ig2Ztu4ZOeBiA1sJGR9p_GD5z6lksKh6j3gcGsFxYnabzhw",
+      "elo": 173258.9,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "0abaRqBFrqsSUkaQyZP_5BbJcMhWCVJgbvKJ5RWVAVLFbvr4W0wqs1CfcUkuLCpuDRlLSUPZI0BY-Q",
+      "elo": 103353.484375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "6MdLTCHdUXEEw9vAzB6JyBWw-eXmkNkHNmNT9XmstDyZ41yJ3OBVdj4QPmhu8WZeWHwXPToqGiP4ZA",
+      "elo": 177237.3125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "SFxnEfKfgN0rJp9-fE93f3chy6r_90ubMApnktklTrFmeXZRAP4vTnWIbFJyy4niR0njktSCIvrCew",
+      "elo": 49186.5,
+      "position": "TOP"
+    },
+    {
+      "puuid": "mkkHaxa74syyuYYHdcauyk8sEPd7qgk5sNjy9hWq7oREa42P4uEuLXh_QfLlnTQ-_zLwYqsqmkCkYg",
+      "elo": 20791.5,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "1kl2Fawopl4qc_QhjMidypCXM8_GNmS0jvebvCinU7lc9qzexfAIcklEHFJHj4zmzJE1RHUAyPziWg",
+      "elo": 26730.75,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "ejwYN2DiLyDfQ97L3d-kHV-W7RkkLvJJaQk1zls1v6S1qwgQvOxGXL_lXtyk2HWV5YN9OUBI55pszA",
+      "elo": 99512.625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "VOUbqjB6aAaz0rEF5x_7IpOsMO0fNjRsogSeSC4pIkomL3PVi83JuV17S1c4RnAc-8AE73VjgtstvA",
+      "elo": 92328.375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "xC5v9lGGqIMe1z1RgnqroU95YMxrgcfr-4njU1EN_722PKUUn_dORJWwo7JiLaUl00Xt6i3iVIpZjQ",
+      "elo": 112437.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "q2Q-iNWWDnj2enBd15-tN9vcJLNgFaDqaURgXFo68T5gupxZCo8xw6iSgURykcE9nw4KWam10UM3hQ",
+      "elo": 193769.375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "PCqrmTZOQ4IhzoG88R5U3h0vCYl3fS_QArdw-TmCNt7FbLEdZboQK1r1onv_DYBNlzzzzz6WIRigSA",
+      "elo": 162607.8125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "GmgMC2JKv7rpBIU6v151DzU9W66rjsiYDxc3VprxzbJng6Wb04n5U-zaGgOCZDq1-c9Tr-vQv7G7RA",
+      "elo": 253825.875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "YpJH0unZb1YSlUXsr7PuV2BrYx-1Jg1hulERBnQgKzxYfVTxc9YJ2w1m-0D-YJAB3LqhesOjRxNuTw",
+      "elo": 249292.125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "P2EHu13NMrfKYSIF5PNjPzI5nsymuw1ZDoaweqxkqTQ7hTLMJuhD65Ke1bro2uushVOLLBb9bzMm8w",
+      "elo": 78143.91666666667,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "TBvMYN--KknKJROSgEoPOhXCAMUkSdAdkCSpMb22cfbNC-1DWJ2E8bXOLiWZvRJKjRqhtZezuB3sqA",
+      "elo": 150123.08333333334,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "Q5lnA1mFtKaldHNV1NsbRQvP780uaD-5roz_7ORmGEoK3UyKxJrWueeMMmI8p23sc-ywINLF-Py5HA",
+      "elo": 83689,
+      "position": "TOP"
+    },
+    {
+      "puuid": "g1rCqN_e7ecnYmmkZhvLgqe_hQ9Heeao374GSwT1vN4WLobT4-T-9X9O9DLv7vdHLhePjAY8NJCS_Q",
+      "elo": 99925.45833333333,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "-rWDuAS71CFdiAfDx71To81Zg_5K8HDPsQ38bxUOPXST4V7cpx3V0TAOXnJ4wKX3lDFLrY5YTVu1hg",
+      "elo": 13433.25,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "WvTI7LSinPe1Tj6pje2PQMAn101_chnaoePOiouqbqj_nLGrCOitCXzmK5ytRDs2orvdOrrRUs4OQw",
+      "elo": 35065.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "aaMnHkz9LMVkLBOi-UyR1z5kkLaQhlz0ZLDr8c-tYSV3AeKxPMjnJJJt9EmsWGcHqfAHCkT1eA_qyw",
+      "elo": 278393.025,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "UnzcxnH_ezqG-34H-g7fCWGJtRx1wLQLdpmQVVWNuHBrc39Px6Lf7hmDgREVAvCwL2RkKRNTZQGUow",
+      "elo": 185884.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "tzVzh2n-68uoKGscOVd-JTz_GNLNohjffjfRDXXfEtet-xA9sCsfpvqH4ZwZNmKgyE8kbvXVbTa3tw",
+      "elo": 153872.55,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "nDw-aXgDlcHEMkA2KyqLd5QNSAIH3QR0g3b_1uZWzfayD1ZJ8os1EbjFGz7B1yP6OrkzCRDHAnR88g",
+      "elo": 62587.7,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "DlpuvoclfR7mf1F6gUUMe36IioITauZg6lxMX5Er19hI3YcgsI_L5sjs8xqUPxQ7-ODWtNwZ6YTODg",
+      "elo": 167104.65,
+      "position": "TOP"
+    },
+    {
+      "puuid": "CeTD9GSmY7WJ2rtGdQ_-2JnDMfP13kCn3oP2-snJQQvWshLXbAVlncNN4nNpKmZcyfwYb6J9MiWXXg",
+      "elo": 146046.75,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "kYy7qJiFMgL8DMHWAQcXU250pgTIv3a8_gXen4aCmQM2t0pwArnWTV_IFoATjr0KdlNEQMS_IgzI4w",
+      "elo": 142682.625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "tytrzpRKuOTg40FGHRP_jbeWyp5MPPTHXAt23T7J1wlPWc7IhhByPM_mAMfk6yr-v3m8EyI4z9W0CA",
+      "elo": 27791.625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "pQbVybpkJS9L9kcZ9clSXoQMvu-CrIIeYS6yFa6SoesVl-YG-x_x1f_tMgjRGYjDxXrHWyhxaCRCRA",
+      "elo": 88634.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "myeqpwESG4NmcGbowWGQCvImT54sIMHFK3ADl_bKeyu9EPsQfc8YsxZb7J-zimqc0DrMHf3iWn2UwA",
+      "elo": 241208.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "ayZblSdfnb8zyi9aclN4VdmmIgbgYT4otTtK-fdfqSeiq_5KNj5NNI_J9AaBjbLGOcMqZugOC1E1NA",
+      "elo": 30803.4375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "YZGFEjdewhdeUzNCEo9bubHrsL37s6Eg21fACsREqrws8P8WYAJ9c7PMf9cN3Yhcypo17k9bw352SA",
+      "elo": 91821.6875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "-BIo1p_XObfgfJJ-h1-JglERMY3O1pWnHxa0zqPFKSYxLxCHBQQoipZBrNVqB4zHhzBmb8d5j1N59g",
+      "elo": 128972.4375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "1dUTOwdkw8PDPHn7GbcV3Ml7-uyjazpO_wzmt9GpudIOkmsIGUT25t_3XF09v9WkE9Xtja5IVjHiqA",
+      "elo": 66795.75,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "IV8BkA4QFLxikh7J255SPu3pJWIKWJ9LXv90g_oATVKE2MczSIh-DgORpRxJKtdwoJI_UjjtHZeROA",
+      "elo": 15991.5,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "s6O1YOd8k7OuiS3C5s0VOOhF6SuyaF_0FwRtnoCo31iI7EBR-5T0d1IzPKk1yWFC9lWiuoMNCuWr4w",
+      "elo": 98092.5,
+      "position": "TOP"
+    },
+    {
+      "puuid": "3maUxHqgb9XUKWye66FYa8TzN8U3sonjzvu6WNst4Hy6Vuc9e0sPiueA5ULcVfY3astXcnyQZVOPHA",
+      "elo": 48844.5,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Fll_5Atipq0s2fLzlPPEut2I47hLLtEKRmesWr-cvJW0cjeRGFzW1yoKlCfRxn7ZmAj4VGliYp1tJQ",
+      "elo": 97185.5625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "SVoahUSnBKcUyvrZTgWTOAZS3CjM3M5U0HAUSORJUBefcRJrShjmSC_qoL2xDxc5A5cGVHODtIWDnA",
+      "elo": 76446.9375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "I80yz3j7y7qOr4EUwWLRlweUpyZ9-xwGhaRuX_jyisZLhrFPD4RHmpgHV8QtgTq8T6B1MIkB9Aq0WA",
+      "elo": 82039.3125,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "Mx07sw6Ph3fvXSnJYnrBYzlX6RKoE7YhjE_JB00GY08qX3khxfor4UfuUitxdMt6rjOUla95hefs-Q",
+      "elo": 107173.5,
+      "position": "TOP"
+    },
+    {
+      "puuid": "hLi6OlUV6GusmFtOM6MFC2h7ETaz0c1PpRYr8_LbTVkZsSBGlrLL8dFfGPtCvNdz4XAVNpiTM3xo_g",
+      "elo": 164186.125,
+      "position": "TOP"
+    },
+    {
+      "puuid": "GTKEdu5EDHwF9fkmMcpUtTX5_KDgwuaUIWaZq7GB9fhrM_UJBEElNbeAJGEoTBdXO_4FNSFWdPiP3w",
+      "elo": 288773.375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "EvOjwgrsjda8Z8breaPMZoSfMEGaWvLnuXzQI2t8UTJlCkPQh_q2SYMhb3695CmaLD19VokbeoeN-Q",
+      "elo": 227936.09375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "UIYFy1XOCq19EVk4L_yYyBwRYS_M_dU7TpvUXM30KW_oMF7Px2KGjj19jmgw31aLkIEtGrGmWPpBSg",
+      "elo": 84727.125,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "IU5AcSsgn49i9Y8bazk9cWMfAeF4G2G4mx9PgF1I6qUiW_hIhrhooiCNqBB8-y-RyD7wHDzDCzWG1Q",
+      "elo": 231719.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "5QB_19oSEwUHzVn1ZEafCKAemnz_ISs8cR2vcz9ZdJVj3ZotSc4crTvZ_wx78eNgNMXy_vTiJpHekA",
+      "elo": 275086.5,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "GHLvE5D9hA1SDKyyJj64RPxA1WuHykkXTpKcMCzQAd05P6Ym-NpZOb0OGQNeitiZonb52X882JxVQA",
+      "elo": 33472.875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "V-qEYJekvxtbSJI9iXK8RsvALecMzj32b1epyAUr_hOAMJny2P33p34hu5ZRYqlABjBoeN7dRjy2aA",
+      "elo": 175435.125,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "aUqDMv58WzVh8p6SZeLSH_YG_nZQqHlmIUnxktkxb0deX8ikHdcWwmHLih8abpzROhu3UJ_XjyC9Bw",
+      "elo": 128806.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "jrsabIMO34U9ZekHqKkpypFVtQP-mTBBQ_851QQLcheViRxh3TiARVFC8W1VR5qMLodZHEEfYd-M3A",
+      "elo": 165578.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "RqGe1qEsshqlz5adkeSmq56TMw4YjRBLrCtwlDf-RFkV88b0GYHx8Pz3-P9rux3Kd2AZCJnbPFluIA",
+      "elo": 223088.0625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "0nGmflh0j6n1cC9BV6XaRVaY_C0QtS9I60DepdoKwh1Jm8p1-oaPpjefyXBSEFa_YKKAkODi_-OWeg",
+      "elo": 193869.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "qc97iRaLJDif-GLut5t7_SkEw3sU8ZBqDkB698ViXyzLS66r4YPNIlnabFmsshQnwR2wUOxDo3jL0g",
+      "elo": 98680.8125,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "dsokMRJPhTBqQhOPhiYWi1sKn0cG2trHJ--11JhM_FUGXR14VqYM_QXTGVklUX5ExO00hij4Misepw",
+      "elo": 101234.875,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "ZRn2FmiVLiUIZEDzR7c0MNGJ4NoH3Q8t1AqTxWGpViLJ8i1D2MDsh9cfmJDWJ_d07YbxvB82gfuEdg",
+      "elo": 84329,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "Lo9ZaVm2qrq2dBZO_YnrayVYRrXy-zOhjTBIv-uILIjB2aChFH3ItzdjCXTwDfmfopP2Yud7E1-uhQ",
+      "elo": 96371.25,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "jvugniT7NuqHLnbSW9Hw6jJYO5s6XI73fuqHqW8iDrU2miS7vfootFo3Di81h2jUGQCofOLiGkuBZg",
+      "elo": 150442.703125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "OtiMpxW8emX0aqG5OmzsQGYHHWVZapmVXPL8v3xZa7Vo9wip4YvDchZlrmQT-B0dCvuQss4uYB7Ghw",
+      "elo": 80970,
+      "position": "TOP"
+    },
+    {
+      "puuid": "hP0xOLjpgtydoph_l-36j1DS1GZ-HbqRmx8jNWUWE3HQ9I5yhkviy99Louy8EJQSkrWW72NAz93I3A",
+      "elo": 119665.875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "_rZox9eiIt6PHq33Em_D49-pHfr0kkj_IhRF3ihvsI_4WH8AHAFYR6UBex_vTC39wN-K3Uo29SHpSA",
+      "elo": 120735.0875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "f30roKZ8l4wm5ZeiKjnBG316m53tDPQwvxKV55awAo4ZPDSAhK4TqtI40_diSviDicqYxfXURWm5ag",
+      "elo": 220582.90277777778,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "r41W442kNUxs1cv5BgiOx5TuWCdwrLq_aNcM3GUCxJQMqPtOP-mcHbUU-4teqJuKxiDFbDg6XSYbyA",
+      "elo": 171316.70833333334,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "gylQsu2z4XjIooNAROTJqmRcIiHEXvWF-0Ba73yVdrsdrSyU5cL54enRI8urGUOlZcXK7MQ8GtOeQw",
+      "elo": 189263.0125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "ZDChSWOo2WUSZgVlMog4VyIYGWGbhD-TgQttTXl9XwvuVKS0Lhj1TNqAVM0uL-DAndU_RAbnlGmFSg",
+      "elo": 57619,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Jrj0i3itiJO9M5wxxKMNgaUXv3a5cx5vZ5E_SuRq0Zf8ZOgKaFkCu8_di9dOdspizP-lzUayBto-4w",
+      "elo": 77415.75,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "uF_nyo2XzdJxOsNbD65xidhZbqisnI5ukzAx3DiyN1xySQYjArpWYCPbTaQ6wS72A1-6ZYh_XuReBQ",
+      "elo": 17109.75,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "rtEpSoWBK-4HC7pE_1DmiASrZA3cKdL_601h9ruS23gUbvNypdXQW41lLp08vrX2S1b6Hh3yWaj7sg",
+      "elo": 95675.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "DV7b4zD_Eem_8B90YuqIg2zKwteCn2zwLWpFATfQ2KSfsOqjPjqIlGYqm8qtrfB2uDkcAxxMeKaHvg",
+      "elo": 142195.5,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "m6nQcXK9YPJFYpdZRMrHFTQ3ZYcnJ87laWR0behJraicHGgM9w8BD6zLYKT4PAgWOLGFkrjIHyokBQ",
+      "elo": 99058.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "MZlCMQ7i1ZrXRF_oBYgxwB0C-A6Mwc47OHpmitSiuKQGx_9mt-kng_pAIGK3hp92QJwrS3IbGtwxlg",
+      "elo": 78616.875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "-aLxnWZXtwVrl0zJyTCdt9L40iyySxS8lykfAs86ym0so4xd03oapHYl17ZTM19cDQb88vj4UGGTrA",
+      "elo": 62103.75,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "Ic1c4fV3LQ3xisvmaoCyIMSdT4PLXCIWG-dfsqrBv9y624ohnR9fVVgQ1LQvOzcmwvNEgem6Z0vxdw",
+      "elo": 77325,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "XZzOsWiX1tDJynlnkFjFgbQqOgyTrR1DKACc4lv3ihi9O_tWXN3z7uryd4a8ODAoq8CbPQR3ghVYTg",
+      "elo": 9003,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "7qiZOY-RVyVF7CssZrixGfgWiTRu4C6FCJMrW4dCo4SWuiGupOgvPP-wBHe1JRad7hPlQ_oJEOt4Dg",
+      "elo": 65289,
+      "position": "TOP"
+    },
+    {
+      "puuid": "wntFDE_jJDqTpMA9OWNYnv8qSqfZzqICuhMIsbmQXJE-i1YLlohEucIQiYVAKUqgHCuggIg7aGKVJw",
+      "elo": 210743.5,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "PfT7M_arVqDbdd8i3m1VclgfDiGDi0syo27IpQ-yv2WiuJytnAAmmiQ3I_sX8BqNRAABzA8fs0yYlw",
+      "elo": 190504.46875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "xd446XkmGGKRDCe1oGgaWGE6VbO-WoLYuMSkDrE35kE1MlmKxUzUPziCHs_3YZBTClzPJzR8R_TSxw",
+      "elo": 207188.78125,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "C4uGVi20N9CqsWqG7emH5xELX28rM8Zv-jkdHh3fG9TPaxiA0UsldbviIbzKKCuSH9NHz_mFGKRjYA",
+      "elo": 228656.875,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "uIB9KhGmfoYOfajEr6IhvVRtsXdGzO3zho7_fXlNYyZQvVlt7RgJbL49hMh11fmQdi0nJ1I4_xWa3A",
+      "elo": 50016.9375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "WFMWXAWED2sYLAJg4dHcjbdXlmpkFkbO_Byi7jpf6r0bvC-ogOhlr3tNCF2_gbBat9Phx4n6wcBrpw",
+      "elo": 109461,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "NH7VtbiGGxIcOvPeZ_gFWQRFLAWLIzJ5RLehYXUlVOuTGeJqhW7mangxJDyB20CJjuvdyNlizBXCpQ",
+      "elo": 17278.5,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "KltXIMerHIcavmCNAZwAVJf7p5gDvYbb0aEp1-XH82pwHxuAPzIuP6ao_Q9PN117WlVQaGxat09a9g",
+      "elo": 112591.875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "VEPkmU1zDkewFXqCe5Fv03nljeEnsU-a68ocAYUH_yFztZwJr1lN9FhoOTyQbpTfNTGK9p77M3Wofw",
+      "elo": 81760.125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "g5cuEq9uOjlVXtQb1nfjIkUmoMCmx3nVUKybHdf8WNuOf-M1whg4EHWX_kAvSUpDjNgvS9MII-kVcg",
+      "elo": 112752.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "pSpF5hlwCWW6n4iKE3vY4xJHdldgNRm4KbmlyWHRFl9sTt8keEjS4NEAiQ_3FCVYFzAcu3XHOBkOgg",
+      "elo": 196678.39583333334,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "15JiZzcpYQ6QmzPs8Z9o4xncm8N0I4Trt-A76UTxhxA0YROXrm9j6Cm4HFVFtKBXWEh2BWCZe0NjEg",
+      "elo": 153920.33333333334,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "pVnWnofqUKATLWfIbOXOASfkPlR2xrs2W0ON8Vn0zt8fP2-HMHF2z176t-YSGL5LyaULbjiGPF2XmQ",
+      "elo": 26478.025,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "xJdYe1mMazzXySRVRfJzo-N2pDD_3OCjslZtYxlH3fQNd16LF_iFJ_KonFWW1TERepuScEBADnJgjg",
+      "elo": 205271.41666666666,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "wVs4Reqvf9whESKt7OtxPzSflnlMeDe9iQ4DIULAE4SYYF8JDVniCBCzh_FdRRRQclfZDM4ghZmPgw",
+      "elo": 178345.91666666666,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Arxdbm54oJEuh7yUZ_LKfB0lkbBOJ-YJ3GLjTk-YeutvV7iKQdJzH7LNQePaETDLoXr94eFJ3W44Kg",
+      "elo": 79244.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "wPPXjTH3p26q7Or99kCm16hgUKfacdJUU5aAmCDUqZkdLtWTqHbZ_CTb6JtViEoWg18HTfz4MLcI3A",
+      "elo": 98443.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "rrgiz92Ij8q-jjtMATe0BWmd8ot7YmeLQHYxQgFH2mKv3JKZ_eVP6KQurg3ni9BeHpF4CV5xRLf3Zw",
+      "elo": 114777.5625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "s_DfJSwmp6EIlCGlwVnXuD11zGk1dBEQZbW-NCAwxg0bB1ODOPn6YR8_8orwYxZ7_wBpQa0XXoWwfg",
+      "elo": 94774.6875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "hpMyh5xxvUgbSbjS0LYU1elS1Vf4fhus1tuowUWm6ihU6sPjMv5PTJ8sEJn6xOFFeAmZfaHGmr_Mjw",
+      "elo": 19339.6875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "8Xk9rii8fyGRkcsOJXQgKiN7EL2GYUnTieE_n_fgNogDIilvPd_BkqgFWFotxi3sbNwpl07TVA9p8w",
+      "elo": 160792.125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "5ZUQlK8_CdJIWqTZQUrF02PwOkCB3ipuH4nYzXN8OdF-6-b9ruFi99ar_vlb5Vmj1jeqXxQetliYUg",
+      "elo": 42063.2,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "IBm9qotueeAydRMEnF8xC6uHjzLiW8iAJAxPjtPlszQYI3C_DtRKPe78X2rzRIqSleAHsZWYO5V-Rg",
+      "elo": 119731.025,
+      "position": "TOP"
+    },
+    {
+      "puuid": "E2lfk7PWXKu77ezdHTL-4bkA7ad_-hqJNh10UlnUFKpqsDzad8Y1g6HMb7968K96x26P9OXXn-9dCQ",
+      "elo": 170335.425,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "agqUHZPd0Bqn39NWN2wiWV6buacyTsmUcF_VxDbS2lVCt9CAfXotTgUBVYeNs9L-JqssO31O_ZlmQw",
+      "elo": 137960.625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "HxRcYchji6frLxOhrz8s8zeUNF2va5ZfPGj5AxF3jG40Rpb_nj9KiAkbJwZTiM0Sqb1Y3aFjT2Le6g",
+      "elo": 125298.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "au1BpUh6bb_Lk-ZwXcrzmGd1tWhdlx6V3NoNoPm-Gt-8MxCrof7T2O915dvp6dNHZS-8ehEPUU9g1w",
+      "elo": 81912.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "_Iw3aakPFm3w72QwqKAOGWljHjn9kEh8491OovHkOvgi-S97oQrTiUH33erAt7I9fGBY3ewlvmc26Q",
+      "elo": 90870.375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "HvxZZjx6iu2QSpfJINcuCNlF_9NxkYpeypWM9WKZJisUqK41Vh8cYvrJQkrNZl7Py55KYOiwsFFIeQ",
+      "elo": 19956.375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Re9gabUHTta59EZTE5Qh6I5V_m4OC2T3ZRpr1cQXunvFEzs2zr2PG9Why6sXrcnrRtjBJi50zwi9JA",
+      "elo": 146982.83333333334,
+      "position": "TOP"
+    },
+    {
+      "puuid": "akaMur6-MoYuOE60C8Hh9MCPtALPBtYO6gFmESQXkQbryiq0G405_Bz_B9SvTEEDfpKYbODpME83vw",
+      "elo": 179433.58333333334,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "uNZD7K8mhsTanGxEdnjFdO72lmdp_UgCTCRMkQNGPPsqhbiJ8ekC8L84abWi9AnjkamBO-vRUD0dvg",
+      "elo": 184867.8125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "YqkowQLwLSiAatTGZ8bI-FE8qtW3--APq-V9wve2QNCyWM3TK8q3H_tV5pnQ9NNIz_PNckNp6kq79A",
+      "elo": 218155.9375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "Uo5nBU1hKXz3NZgrx81KuteJd9sJKRTvNtc3v9DCXAu8pYu5HVCRu-YI5QPhf0SMzwXKSu18RdQ1lQ",
+      "elo": 37576.166666666664,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "gjLoqNZ4DCNxrsaLzwrOtIcSwg7v5rbRiwmcIv8MMU2_qfKW1lTM43lnx30TVHNtmLS_zzy8PA_yTA",
+      "elo": 75726,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "EMGC_IL56qduruqWDKdvVSpBWUjpPAa5JDwmN1OHIsIz83HGtVoV-nUEeiWvvCUVMT5dKDJcR48T4A",
+      "elo": 31583.625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "-EcS7zMlgUi7gw1rErUj0ywIlQ7PulNUmDmw5gmhdOA44BWURyOIZUXQ-inqcXE-L95e8ipdVVhKmQ",
+      "elo": 73436.0625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "P2__HIKSOd1Gv--fcYMdxSv1MBThhrMTllJD8nJj8IU6c_8dIRIu4aXrn5bUCqAu1C_qqly7UgxXtQ",
+      "elo": 85232.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "EioqfwSxiHg3SPzWf7dVxvLSrHFFN9jTyy9PmTn6Opk3UYIMX3cncaBIptGcFeafznXScz33sBNRhg",
+      "elo": 83825.0625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "WyWM1_guFpEgKmazPVbes1zdUIIrLznVs-Z5D_cJ0CqJ5Qv_O9bXp8Fq4oIHJivQ-1b21QxiUvOapQ",
+      "elo": 236630.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "FjkxnIrCdO7nGAhamHFHE_q-ZGLi8XcGohA-KIMGwceT8oXcKSipoOVnWzx1bDaimoE_VyIKgjPUDA",
+      "elo": 189654.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "onqT2ilQpmtFBTuRuOymK0tl0kb8IJTq4SjpG5zYKlbRCgjdUox4vAIJb2lYiyUdJd8mt8QKCMwoHQ",
+      "elo": 43484.625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "lubUxE2h0wCV8RDX7KGu9QIN3JVi4nzk1zm0TAndCp-wDIRzkYjU6lgW2NUD1LfQ8gvx1YbqKvU5eA",
+      "elo": 315823.875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "c1MiYbNUAzJy2CrZFWmkl9I8cF7-UWV2EpNxRfrhEABINierQovglZvp_hpGp8xjhoaRVqzrTgV5Zw",
+      "elo": 366617.25,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "BGT-UWmwPQlwM0cyF-6ifMlqKw909SUtUqKkDx2ZHU-F-LquWsrl1dzm70KkNMQ1ZG9yrr3ApUeRaA",
+      "elo": 146406.875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "B5Y685N85s2ZpDmKZhuUyAP5S6ZDgt0TP8S_wEBTq-hBqzVbb1qsL4KOxwR6n8RuBvzIH3W3iy7vRA",
+      "elo": 126062.25,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "LUNPPa97buIt7-VVrZ1cZP3ntd90J5c5Zu8MkLl6FTd2v7vjeBqjytd1zLPowv49qqpP46MLn8GZLA",
+      "elo": 162477.58333333334,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "eZ7HQlqHVkw8TZo6M85oMcQahHCJKOGO85IBoRB_-c-SMoJH5CA66O8QwenGLUbxbRrxyqL9dR1qmQ",
+      "elo": 27469.333333333332,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "utyELOaWemvVXyUVOI2wsTEq-xmH8Lw9dN4t8Bs1SQ3Q_AzXHrxG2dJO2ql557cGsaNBZhbbn8fFKg",
+      "elo": 97801.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "UpYUxddFiUchJ6s-dguCq8JbAX4mXPI4pi36LK33tbkrI3coDTCnsLdBbgTevOzFXne6LWkTMzz9PQ",
+      "elo": 121552.25,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "uatDdop9zmIhPfo-1qdoYeIdqbnnjH2WIoJUnsJRryFWoJAND2IT_k80YbzhMvMMa2_tkTfvbqIlkQ",
+      "elo": 149660.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "05aixQaxDmhZgksN9CdV7EUwJG9_QhsLw6_nIniTKobQnClUX_2u8rJb5r2qiHSNHJw1SSl-C0HtYw",
+      "elo": 171647.125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "lyi9hlO5EhukAmAkbnp4bFWiqdcJt-gHFFYkh7halkh4H64bdpRLDIPDhXIWt1LWTusAHpXN4pu8JQ",
+      "elo": 18079.125,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "jdXkyooDSbeGNBLPdN9hFi6ZsBTJI-McqtgKa0eRGNlQDtufDcE85J9Kzw1ziTa5ulp5LVsMUfEj7A",
+      "elo": 53002.875,
+      "position": ""
+    },
+    {
+      "puuid": "QnewXwle8HmczBUwFvqQVh0RYYW9mfHtdtGGMleh0X3q5TQP1ot46wNwKv0Yr06bpB93wIhR2OanOw",
+      "elo": 193322.525,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "N--ie0MCNa6_fnI5AWVmXLyCVc0-M5_ai-_IiSLXxf0BuPTJnUsX2XgTG4woA6h-tO5Ud3O0pc5-Rw",
+      "elo": 321086.25,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "lo7CBDAY6WD-lmEsujNHBvgDW10bk00oAv-r7K7CL38LsJ4pszfovHc8t0pjZzI6ccTebZaG5Tnh1w",
+      "elo": 29866.125,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "aB1cQpQrrPNK7awkN930_s8yh3QcsPvxhxxXduAVExgAifOXNPtj6mKmc86uQ-pNxPVJH8jWFfF2Tw",
+      "elo": 173351.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "DtNIeyNl4Fgg0qBKCO4mGv_0hTZu7g6wL5Z-kUzmQdTmdTnOYl0_wb3hNezOVunxIH2hqVDrUs_09g",
+      "elo": 129895.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "HDtlxMjwbxRcthxxcHC825fnbWM5Gwpm2L7ifHpZ79s-Rj5ZNUm9s3rHgIOtdEko9LnDP_U_LDJcUA",
+      "elo": 94976.58333333333,
+      "position": "TOP"
+    },
+    {
+      "puuid": "KLZwpm-6cSf3LwTSe7sYuFtpCVcdMnT4w0Z0g3o8KTkwd1-2onuWTy2lTrUnK2ShFPV2P_9buhgHww",
+      "elo": 108913.25,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "mj5jhefZ73hI6XubI5GYhmqlWVmNjb0nfBQd0-8VggQ71KiyV4bfF35LH9qfQzBwTb_JX9ZEHpR9Pg",
+      "elo": 146929.375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "3vBHibEmfVwkLJSyhv3sddJDSQZSXfbBF5TF_oeLMbFeuZIYz3arEGHQvUu2T_k40g6Kjk1jEDSQVA",
+      "elo": 210008.9375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "Ee50O7kMVk5U_SdA4akGDSWUXXaVgXv0RowJKh4W0q8cZT11gACQFkuG4JvEnJhL-wHmk858C6fjzA",
+      "elo": 28575.875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Lxy0ZI_7lD0UoK11GIS1cLdrqfeb2V91Rrx5OrPFwlP6xndHSfYZg7Yzc9Kj2ihNnOIvfvVBIpvdGQ",
+      "elo": 24473.0625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "VCAlK1NC8HlH9Von33TK5QiiudP79vmGhRlA6NLXywSspXMJvMY2tVxhtCIe2bGRpwzMZv6MK1_RaQ",
+      "elo": 87983.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "qDyU0T1pmGSjChmaDPBl1Rci-0IYzrw7ooMR0iN7M9uGqn2xaawPuvBShzj3lIvgaUH5ZZzBSlgKwg",
+      "elo": 84048.5625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "uvzonkRFjQfVy70InIPB_cE4hQwhmXhmcp4AYaHK--mgxhUjW7ck3Pxupe7pEwNXzqDhauxSCmDHsA",
+      "elo": 104623.5,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "R4GMKu_HsdXD_7ArQS5qvj_A-Hzv_J-Hl7FayuEq6NzelQhnDntoDMtYsV7DhQQRU6KaY6N0ozvSeQ",
+      "elo": 96977.8125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "OmVHmi0-WZNJiYI26uV_l2OjE2WZ6-3zqNVYdQ3SbgcbccA1MPRTuh6dwYeW1VkWB9V49tTKEWMT0w",
+      "elo": 288810.6875,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "UjN-R5owg6o-BefE9WcONkO0KfdEhUCu_i1Ovn4A9wECU66GS9JJX7Gs0yaiy7pPOWutPf370jOU_w",
+      "elo": 230194.375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "zoBvR_a1o-fhjGbN8Q1o0KzM7Qf49iMR0472TWg9Ayjju8n62xViK2FBEhg18kBfT2jYGW24jSq2mQ",
+      "elo": 240063.6625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "anCfO62pbcUH3E7bJAB2dlDoYuiEQwH67pXwL9FPPcAVwcvv0-ftyJ2j5RvImhGaxu1kANrOrfETcw",
+      "elo": 185104.875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "4HD0T_ZeF57P10cbgoO7bKHr28bDrnEkIBhSvA3MDq-xL1fA6WVRAqoPlWxGmsJQCKa2oBoMQkWTwg",
+      "elo": 67990.1875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "rCYhv1yGfj2jCEsS8fzVll4JEiv_E5J7bPGo0eGMEmeAR9v2mqROQ9QlpxOECVlAHuJhoOuBZnnbdg",
+      "elo": 44346.4375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "yt8LZ6aaYBUUKKZ95UImERUMjZU3yIXWqFMrCNSimIBqBZwl3JmwFybVxvh6kYWjVxhF27QXky64sg",
+      "elo": 183774.8375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "Mgdv5K97g1idWfArOo64nYFu2RQ7H1q_L3QOn4XVviJwgFSItN2OjjC_oJpCE6tUoewx7PVm_8gS7Q",
+      "elo": 266231.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "32qej0CUWmwmfaJXz9Wlge4nGe7bC-zfMS79LWa14lwEa-aC0KiujyYIn6dkAyT7dslSV0qQPGR9JQ",
+      "elo": 332645.25,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "rBmli6fS6ULXUdrhvfXNJzsQ4A8aSlkrruLGp0zAUz2dyEQEwTZBLT7bWKap08FJtu9GbNNGgBcE2Q",
+      "elo": 58691.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "t4RBiVpv0jivfDH2mBLJ_8BXHS5UjDEIk8Wo92MMSWElH1hpX3GAdAqKw8HJJAIM1V0lIh741wj9TQ",
+      "elo": 8724,
+      "position": "TOP"
+    },
+    {
+      "puuid": "vqvI7T5_NOYJszbgxqMuzn3aPQqPfIFlCt3-KLIG5VnhgeyEr1hl3C0WJaCjKgbTj2wrWa2yz6uqFA",
+      "elo": 3170.25,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "zaBGPrrkL3T_oMYXv_NCq-EdBhCSfjzR8-T2uc_5VXL_yaRZKGf8kDDxZqr6eQH2v7FXi126K2iiqg",
+      "elo": 5394,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "V4a5CUbVQd5auHUIO5V4lSbmUaerzIMFH8fr66TI3CsMbQiDNvmlB2dTLckeRHSytJH53eFXE96aCA",
+      "elo": 26110.9625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Jy9CWcLXTVyEsQlb9h17xltbCGWqmureAmKdKup7WodoTCaGsV-U_vpK2L3LbH-bU60uFfd2WLmX-Q",
+      "elo": 119068.65,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Um9S3WjigsPpRDnxDQmdfSHIarK9PR-Poz3sqKorQLsxS2yvpu2OOpVsnkEWvu8L5V3jySXaQDG2Hw",
+      "elo": 103664.8375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "r2iwRckcmkx_kQMktQgTIqY1idsJGALXXsYwWUTigvua49TSMvLkP-PLLuaFx4Gf-t-nQTDeJWFT6w",
+      "elo": 97765.525,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "33Nw1gMbjMAaA82mZmX1vhQXjUdTXDrqK9nptd-cW7qyLKqThejOeBtDf9CV0h62riD9BRkVugWuvA",
+      "elo": 165616.7375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "xcly60XGDfxJDvKSx2P4Zsz-JsO3wwmxMqJLoHTYotV_q5OOlJBkbLLB0dzf1y0rVXwQOcKpVbzlWQ",
+      "elo": 196727.859375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "zMu0h6uEk4fr6ZVjbupivORL1X1auq_kA-RHKia3cswLmU-4g0gTRvRJsPRznfMyLpKsXG1JzynBYA",
+      "elo": 104176.77083333333,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "XmVTgNPNMgVRvlsq3VteP93r473Pe_M1Ywc8K9S1CJiX2LS-S24-2VKfKMUxzYTiJGIQ7soogFVP_w",
+      "elo": 120833.39583333333,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "dwEeBcRTru_ZJ1dD8sk5ae0iyUlSG5ENbPkP0AvT9x8azv34xik2Jw8VsswXDCrxfW4yUvhIlv6w3g",
+      "elo": 101747.45833333333,
+      "position": "TOP"
+    },
+    {
+      "puuid": "MYpTNvxYAsopxFvd4NLVupNp0PvIUqG6E3tfIq9wXDixe9xSfPvzT2RPyXLCrA0B8uoZYBDZ-adhKA",
+      "elo": 132588.20833333334,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "RO4W3sG73HXCM76z5p6eBfje7o8q5Fw0qEqftpfxy43GdQ-eb4FAoj9mMHiFsJ3n6xAUS27_vdOtEA",
+      "elo": 28578,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "DFjBTzx_T8MkqEibkgxj3Pf_yiyGzMenPSnr3Lud96rGTDnOogSP_HplUdqNGqHisp0rLcSaHDdZ9Q",
+      "elo": 66962.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "fsrN_kr-d3Pj7JqLf6O0DF2iA4tKpAIv6q_LHEhzeI-J84pZzxOUEzjCl01Hq-_Zsp4KqjjPVwQWPA",
+      "elo": 16425,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "ng9pWiXC7UCVkiDwQth3IVMRTfjNrm5KIzYHxU3mGIMJQzXtp3doG_-Qw1Hs6S5gm1E0WxG5rQnF2w",
+      "elo": 81553.875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "OqxDoPK9ptzgoh2-WuNwA1GI7WYvM-Xf-GJVN2j1aIv8fB-w4p5SzRJkLzSN4CJCH6ClGCfsGDAEHA",
+      "elo": 58461,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "3V7niC9QNegqajluIup3IOMjgoqsYxtzKZsGNaPpgjHir-f8n-UU5pC7UEBXiS1Lv92HpYMAPVf5Xw",
+      "elo": 49472.25,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "SbB8doM-2CLU9YtsHPztfkOw8K01c0IGyFRTghOSGGzFQrmfw4tg3Jwxe4kJdnD-v5wlIaaNra5uiA",
+      "elo": 129903.625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "7lVCxStqc6Oedog20ez9Hu62zyf-BXhCryRMIHP5ZRxP196SRaYcKHBNIB1Mbt4RluaXqB6Msz3dog",
+      "elo": 26002.25,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "cFTSKqTynh0h-fHWU356KWGzwGfyYJsLyKkWcNvtvde28Kp05oO9zjz9E5YyrtypIHVnCBSQWtIh6A",
+      "elo": 140358.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "IMxQ7K2gqhJPbH5o68MqcGstu6kP1bOwMqsPbC3bj70kVYttpdbOL9tfMO-II1b_NCnG0LL3_G78Pg",
+      "elo": 148806.9375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "n0y__M0OLXTO86orA8SxosemZmmg5aOmxvIr7wUTrWUCD8wSAGxvqW2l8IwmMvR-uVGcAoVLTPtj5g",
+      "elo": 103095.375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "H-pzBTziqjTPY6g1YHoumRqgbgZyELveBgqEWm_Z9QBa19jEI3DuI2d6UL2DMqL9UjgdavjvSRBjkw",
+      "elo": 62375.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "kWO-RbohI9-T4K9xgbLrRP77XgakXTAOsHtqq3BTC7m7_jx1FI-OyG9uGDelIcJPEUkCOxVhaFO-5Q",
+      "elo": 21177.75,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "oJR0DaOgBLcUHl-ah1HbpKfr_6qXFv85wNUyzGW5dc5TncfDC6To-JtLXwY6ky6eUB7cIW-n3xnajQ",
+      "elo": 84361.875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "25nokBPTusAuzmZA-0BFKlgo-bjzNtBCZe6YXTZgbz_vj8ccwCeNkueRVlGNlkCPaHG-a09wEUSyGA",
+      "elo": 128145.0625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "y15a_n_5ufqNsjDJDHh-FrbCq09OJD9X3HeW3iarStUovVxfsDmfbM4--y3n4l52N7xVZJHPAp1ehg",
+      "elo": 126004.5,
+      "position": "TOP"
+    },
+    {
+      "puuid": "rE0luXoXxF6HnwmbvKrOd9BGvUhZ29e1GIOTAV0e8Xmm1ttOwh8PtOipy3KceSBC0gAosH0kxBrMMg",
+      "elo": 155579.5,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "q3pFnqKNdArJIBNpfUVrsTl_nZSdBa-ebG1gCBHUfXPnKYvEmhpWQLnZZx6O6qy_qiwvIGYIV2LOIA",
+      "elo": 138050.1875,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "werlcIGPOspbL6aBSwKzLKWMJgumPyhkClA2VOrCUQJBCDS7zvEUssRCushKxSIiTNbZtByjmYIgTw",
+      "elo": 34150.8125,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "ATYX_mWzfrnUIVGRZRNt-ATIqHdBT4SaE73JmVe5aoz7O5Mj3ZQzvqZXfYLmE2cHgmY-GCPx7rpgSA",
+      "elo": 54098.25,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "9sPkl2cPz_6zwAS_NbsdJicDgG5r9BUdXzOqYtWLThxguMxAnqfVngsehsG5pv1mKQ246u6cbggokQ",
+      "elo": 44621.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "rMUxEVCIdfAU3nyOQMZd4yq1Bv5N75J5zYiw3kHJSK7l_jG_Mq6JkrtO9Ulx8z3eYvjgclNK58N0LQ",
+      "elo": 21636.5,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "oS0gBVhJdcppaH9X__vA5bKMILy1FL1a-duoCgANxSOtHX9vMWgGUg1o2J3l0uB1Ij6_nPWeaNsrYg",
+      "elo": 99936.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "o3lHdMk4BwXbSGGAhFeEM3sWsBijur3RtxJX7O9UjVkdnGY-hifSh2vYoV3xcHEAM4oZwV7MIS84Vg",
+      "elo": 76538.75,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "qfrd9IS46xFiKucZ6DXtPnK1FxdomiOPFBgoE7tHo--r-KnMvQdb3D5cdtU44KCsypLBSbHQfkWYKw",
+      "elo": 40703.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "X-Ajx8AqxMXd4mivdwGX8KX0QChkAHabl-DkuZYmb8tvmqAE1LnIkEj1jUxOt9wI18an4kHRRyIqtA",
+      "elo": 84762.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "z2BLNjbFXHvv8UHctXaYQdNCeTqIKffX_ZuYKa2F86trdOjRGR9eLazea51C6QlWCGXaztZG0h5OZQ",
+      "elo": 79451.625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "FfN0wvjJd6qVKXkgIfffKYoRKF7Kw4nr2lKDCrUQBzVtlUIYaRgkCjQ_7HOXQypqcSBgtTCHwrmpcA",
+      "elo": 45319.875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "rXoC7AB-p-Gz_dGA2d9lsoQFBYvimrGuIedk9aezgjupI0McztqMtvSMtu_bxeOFH_3PnpEQClMBOQ",
+      "elo": 10913.625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "btTCrGQkLpZnBuPrhSI_SzoTgh28eaE-p8LGRX04fQjFF_lgZ6Dkgg6TElfCgjZO-NYI6TNMwVo-mg",
+      "elo": 93690.3125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "e4JFbp_vJyKI9tU3uUBxNup62iRD25PbzznnPR4dzrUIMbPeSuT7CBaD4_1LJqPNFDGOGtTjGcxjsQ",
+      "elo": 277496.25,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "GHRHvBpeUmgJXf8Q7DnGy12e464g4r797XUh6vzBxJExY_w2VQMrRMV6Z0bS5Q9kXVkk_gq37hMH7g",
+      "elo": 38323,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "nXzOY80ZUI5MtkudDaCJUa7pPxMBpXBLRTVOS1irxGQgxRvFrtewW8zchrQBdbvOJqeUuHjNVEU3hg",
+      "elo": 159362.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "PZSBbDu6VygUFYmyIWQGuCvP5XJ4j781eWfdLgRyoZz94uCzl5_80EZ4WiZYfQCLheFY3C9h8QwY2Q",
+      "elo": 272969.75,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "CpIHxfs554kTw5S2LqHoRKu9_9rqUQgvfJPfShMsqEB678pnOx4dcJOeTSaXrSQKPbZNQD3O71k7Hw",
+      "elo": 275530.1875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "a-xOyboTEYGAOgjOO-tdAD8sC-8kY7iROMLhMwCTMQDfGHo0p5mMzhwt1qe5ALWjeK3W9FqZhEVYCA",
+      "elo": 51912.75,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "9v-SPDCxMG2zwWkjQG6aDlgWWmxRT5aXjALCl3XD_UJdOVyYWa_J4FicxVCzIZnSWEsf4resm9y0kA",
+      "elo": 160186.5,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "BDFdGxd2vZ8dfEuTnFJTVSqtPnZsVTmAyWeGyqY_eM061YMuD7s4fqG_EbEAoHH0IpsfwQRMAbRnQQ",
+      "elo": 171528,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Je1tKdx5PcTCysEnVVWe-ilmsitjD3tnyWnu20LTGHu7sxbxtvc-ZJQ5xt4RMIYqAuqgJxzn2DiumA",
+      "elo": 313285.875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "0rxRBcIgVVLCdjSHO5RdkPPHD-SeTfor5TXJmdgG8y9Sncle3HtX77TFhgWc2Cnh2SaX7tfCiq0kGw",
+      "elo": 239168.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "bingmOrXsfrUxJRVC_C4aEsVkl5bW3yRa4B9e_SA6GAE01RCPQDQOWC5VC1g0bvjHZmdIKDq0inb1g",
+      "elo": 103595.625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "codgkS6rOSAdAE7PswH0ZlzFmjSiTinIFJ_FcdcvNjbxgfZ13S6CRP6ClkVU0gKqoApfWAuD3b5fYg",
+      "elo": 101158.5,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "kbEox2G5LXiMHm092OKafZDCmM9cIOu7Tsxxuf1arH9NPO5zsTUugeyAZSeIpkAZPkw41P06oZHsPg",
+      "elo": 29402.25,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "lkY2rFwBMBpupD9O9KfTbOyTO_gQSxNz-quFgso4EtAxcFWOSZyH9v-hU1Qz1uPMOB1tirZUmCqrRg",
+      "elo": 164960.625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "_WpCRoz9IUuOU8C2DsDoJZegNx1XQZAewvJFcoqSTzG3wb8Zd4uMfnaeZ10UyNgOlXVaIL1PoPhaXA",
+      "elo": 62616.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Ym0iAn4AV8aVR5Xvg0l-Bg_E_J5dHCxxpOUTS12IIfFnZ7dq9mtfN9Tse77jJ3MWPdMD4t6KmsCCkQ",
+      "elo": 114483.21875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "pUAErN6tdLRLDPvovehi63bWbGZRB-WA_5dUkB-w3Qx8z_1xwZgy4SSEvjCQeTPF981V445pDZ8FaA",
+      "elo": 73548.8125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "UGXiiK21-cNHfa99bfL4TqdDRFCPkHZTdMy-wr_UOYl7G9BmQeZBbSjRDSVBnn46W8AKJqMWX9NBHg",
+      "elo": 97750.03125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "vyrYeVdzZ9ix4PgdDATW6HSKkDIYQumjEOatWh_XQJBsdw-a3bXipoiBn4KId2T45-qUEASsHO-scg",
+      "elo": 21348.4375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Q6ecTfFqV0zn3-YnEdLNNe3-YNv2L3DI5TKlz18OiUUxmZsTnxIGYCrndU6LWZZvuJpoXe3_xQTqGg",
+      "elo": 68914.59375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "8WPaTlo_UuNVVPZNPnJV6GU0Bc01OJ9w2PxTMV5AmTpspIyCIEWsijEXQ7PGT3evQKzIDISBJbpugQ",
+      "elo": 70492.875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "ejWnB-nHyNCYbH-FoqS88MotQpNl0ryYvf2U2CxA4vFxhq-xfTczFYiQJ_zm-l5X5iufPHSb9HSaUg",
+      "elo": 11610.75,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "HDxsfzglg6xXkN1BtRYTHz9T-fceA0LtIWThKRHWBJfkTxavC5YiHrZn-eaQUlj6jO5h34E17beuog",
+      "elo": 69114.375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "DYxivw4-vNZo_dLrLCuorQlrcorQ9EhYsz6S2ORprFfbT_fYrMnwf_cOXEybEXLPUzIiq3tFENeIFQ",
+      "elo": 70950.75,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "eKASoPTQxZmKyojPKI-AZrFODiQGDdaKEBXYRAf45bEdqA_1vfOV6xrQY5A1u4w5CVn4C5D0BAQ0Lw",
+      "elo": 112741.5,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "0zKsTis7uopYxnVVKFU92Q5hbUOCIBdkCrRXkYLMHCID6Y9SuB316R1Euk2JubqIFcsof0Kwf-qTvw",
+      "elo": 126084.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "aNZnvuAPzXgLKnSi2wTD4LvOUlug19w4M_9FNN6TXIfwEWEZodRVRI5kaPkletPNbdduhrnq8uuYKw",
+      "elo": 106608.4375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "zjLWZanGfXnakJC0Lv2aSS-bOHbpFKkaolRhP3ZecbZiffybKm-ZVpQatdegKhEBHvLvqsCALKXXeQ",
+      "elo": 37947.5625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Ww_bBhX_DYFxNC9Bse74SKAzzUenTIfE78rlBnQz-HtpYtsc0VNWD7HLsJgNDNvugLj82yNyzJczvQ",
+      "elo": 110153.4375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "cFNSXn-WfwJPBmgrTj1-xpxyY2SONlWsk_v1diZmp5U-mHrCh6h5Ulc9GCq6_rE57bJAf2Cr3u-k_Q",
+      "elo": 109859.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "AmDrCnuzqPWL0Znu1Vok8dfiDfQUG2Meed3NVHs48iOy0nBXIWceZ4fiTgD9q_p1j9xGun-G9JyhNA",
+      "elo": 26052.1875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "rH9sBRzdZ8Uuq5toZsF4Iu9tVJBwRBLrLjsmPJExPEvwSomNNoCtY1VSNOlK2uoV5e6r9hAYw7PFFQ",
+      "elo": 56813.0625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "aHOnyvmgYbejY2wGod4eVEtyy3tazJzosUS5mvxu8gkba41zOj3foYhkEYTs80mo6erN4pVFc_0uCg",
+      "elo": 57759.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "oeXFKjBngfYW0f1y72O0TBVWnpqFb0TctO4PIvH2CiYPcpaVu0BaHx30n9sVZd9nfz5vW4tjuzRrpg",
+      "elo": 81048.1875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "ZI-MaF8MpfaOoqsD4_n6nS7KJZAnTbHTENViAcQod-HEGoQEsHSodc1YWOieCKzrfoMLwWmnHlRzdA",
+      "elo": 94881.1875,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "ilYLVIKi8SHdyOHKhAzEz6W8a_Fr2ycsDxxMX-IY0VQ7LXBhFzJ3X2N6_3QIiqgui_PaD1Rq2qOlqQ",
+      "elo": 158566.6375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "uUXdJ5L50vDiReAXYRXg8QGPJ3Pu91VneF-jcOmk3aK-E4fXinHU2ozQ3VeeS4yi5ZmBqxWPlT4tRw",
+      "elo": 275181.3,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "Xza2DDcwkyup9aONaxPTtKgY4og3vCqbzQrKK1GzoXisgzQi55k0gDdCV4b8uPp6K24ZopbeOCkGzA",
+      "elo": 245980.3125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "fudH_f3HoVdEeYUO_IFq9Pa-prw-iewIxy2EsjY88zuXQZ5F0N3eKtr_3C6ftGEFyC2yP9WvVBMy1A",
+      "elo": 53934.375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "PjoIkU0nVU4I1K9BcZG7RpWr1-UIwzPAJzOVqqQhLkD5EcQhbpzhdDJ3jZJErlv34lfuoPxJHM4TSg",
+      "elo": 102808.77083333333,
+      "position": "TOP"
+    },
+    {
+      "puuid": "QLuGJsfBuGJxZTHDS2dV25yhC4qWYyKHvqN6Mte2lkWYyvYn_eBT8OYnKVch0c75GXMafYiZmpCncg",
+      "elo": 189498.7375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "1qmXZM9PqolA5rlu1neE1f11Q2S9Da6OdPNTsrUA177Vm0ts-CUsZcRlBbSTgBflaIeZpanLB73oAw",
+      "elo": 201515.4375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "tnvCBaw5kcUKZcHCIYJGprPk90bciaIUw8H84DhcA4pP9GZmh859Qr6W9ZzIOAX7RMrdyQ2G2xq6Yg",
+      "elo": 164399.575,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "-KimQSqtEGsepEC6vuVAf7recEG4tCKoDM48cW0ZRTzf42CtjToyMyf6Uc3qXMwtmhQ1SJqmbXvKGA",
+      "elo": 37560.875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "uOypnOXREFlbh0wcnO4NxGxg1gpknOH1n4KKYQ6vguKZgizOS4bts0wenrBCzF7xuxdWHsLtqPjo-A",
+      "elo": 108815.5625,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "RItvXhcMxO4fvjw49FODKABTnqTGM9l7YIXBra_N70uoRZnHqab8Ndsv8mROdW33C6G9vPupW9zEkA",
+      "elo": 93456.3125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "6kbZ4nNa947hi3rhF5vsu31TE8slQUSQQE4fTeH-hIhKFaTOwSrAHqEwMctUBeRQJmCzOf_j_-Vpkg",
+      "elo": 32023.5,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "AQWDpPETIwpl0YAwPTWFrlYMthJjEN6ey02JoctUyrqLHyQOOWG-rH2RH73E3NUortnksTf2SIvKZQ",
+      "elo": 63112.9375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "cMJE3g0qEMivTGefhKiE1xCYhjEVHD3HVHJXBbhq84N14MTh_fAcl8HVqdha9Sq-PalNla-GGrCuug",
+      "elo": 123858.75,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "UvRY6xW8D550WEw8gePXu0um_j1vvcZSZIReWj-_6eHRSINpQ2AWK-kUarCP9xIHNGR020MQ27WvAQ",
+      "elo": 39382.5,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "pE1tTYZN58rwJzjhAP2OII7oBMtP-R2Jg4ISY0rTqXaQ318YhWpjXKKM8e0fMDwe72UfRddEl7bkhQ",
+      "elo": 29077.5,
+      "position": "TOP"
+    },
+    {
+      "puuid": "bF4Ds7j13OYpLJI_L3XVu_8ILNRiKPyDiR1QShl_nyThhHmc8K_XjJELP5rvKm6Jp7WrWOnRzGDc7A",
+      "elo": 56531.25,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "OrluUN9Tk4QsbC_XTk4VsmUXyTrM0Jhl_bz3kR9FBqCXWcb5YVAZRC9nbpUMCapfF8FovlmVcfhTcA",
+      "elo": 55525.125,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "3v6789qMNV8O99RhKgPMtRrTFnHbT3HB18Tdz4akT7vtmZEz0lKVymGAOL9KFn8-Lz4S3w9uv29Ogg",
+      "elo": 39195,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "NbqOleWbD2o0okEOWA1X0jXJsGRQfitwIh6x86MsBz8GHB1WfyVRdtvTlgRUnWmlwIQVFMTfXa0D4g",
+      "elo": 246688.375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "AXBrunQKyo8DZpUKCg45Y4vyAYo_69bAqq0mDnDMc7V0I9UwUDmVoLTwjE-0SPwoHhr3nmUr6QWOlg",
+      "elo": 30797.791666666668,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "2M3Al6lQu79v256uwupZIrb71l-IYh7StsNy0Hwl6S7t_Jp3Kcqpj4HWhipkjOawoBSEhLrISK7XyQ",
+      "elo": 135368.5,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "DYTZnsm-l64ZNr5e3FY4-40ETzVtjDXijuJISHDK4dBNIUKvZQikIMHvxXbLUpUQAbNALQE4Q-S9lw",
+      "elo": 123238.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "JkkACayJMDlHDUQAWSgFqXeei_dxeFnoj3ORxAElQ9SRmPiPMHlXYng8hRgIXNsP1CJAGbvb8as_ig",
+      "elo": 120892.16666666667,
+      "position": "TOP"
+    },
+    {
+      "puuid": "MlGtSV3UkGhxlpXPB3C7d0WINWbKSi_CI1NKikOCyxXuPbRRprLDkw8W6tZ8ruhSlnWT00guHZsumQ",
+      "elo": 190797.675,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "SuNv-qj6Oohf3aEWb5C3gnubMumyWt91hbq7QQXgVjQUHsHo7bkxomUVYTHC6fe84UKyBjvaFfxm7w",
+      "elo": 42808.1625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "ouwOriNSzmdes64_jIE9OBqaIpGko4DPis3RH7GxKLxaSCzdKJtUzWtRUnNQuJ7OBc95ZBk5ZUOkWQ",
+      "elo": 55061,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "Y3dto9t-Zs9mdn8QeFIMD2827Oejz13yhTCAVjn-tTilAA-uyarr22GyI9VJ6p0C3AYLJgyNVQ8CKg",
+      "elo": 286925.1875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "rJPg5VDdMMKJdvm7q2VYwVlcov8HAK4Tt_Ce2CnWTnQihLi-DhDLR-2At3TNk2b6diEhOrJ1GtUk4w",
+      "elo": 262074.0625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "TmOMWtz8jj9J1rQUlLb5g_rRpTNsFi-VfINTNx32W4bGAVaeUCIz03TTnWwRU3EDWwrHeK6Pd_sJVg",
+      "elo": 288572.4375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "zTeBkiRixmRsYgiEv_FeqgOcyLLLezq-OyWb3vxYSZtzIFeSaY_iW5eIgcrAYjxf6-yeJzerj78N8w",
+      "elo": 324710.775,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "51Acb24F7as3o0fFdrEomLSOznioSDjqW47Q6mticeL4apHUrNMrRiul_3rC_toS4NbRlCiMNGfc7A",
+      "elo": 52766.1625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "ABhYHFjw1JEv8t_nMbnxTMKx6e6wvVewD3f65d0cE4nOHILykoJ0ebfr6XI1VRND0_VWKlLlH3-KbA",
+      "elo": 211259.5375,
+      "position": "TOP"
+    },
+    {
+      "puuid": "w8Qu9r6hy1oZgPBHNsA0DtLRBhIjSFBOEg3YmTuT2dsUzk9zPgYGup6NcIdMSP0adTD4oRs3W7ZQMA",
+      "elo": 175028.7125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "mZTMy_GRyCKGngAlbD5WEI21TpSmSfNHXXBnnNlNiJuWfWGj_M9URGZohf-QXPxUD59o6uX9-65RRQ",
+      "elo": 191275.625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "hPSrDYj_Q6C-ZvLAD3nq-iXjbIEs3F2RphLlwKnhu8WS8ZZsYgFweuRWiit-ERE8PMfCgX3gGZQdqg",
+      "elo": 81229.375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "RqbFTJDqaHpyuLE79hGD9bgd8ITulAiE4vIuz792N4q5fejBVawwANMM-ERjcY_ZQ87DVHSAlQlv7A",
+      "elo": 218618.3375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "dUMJdSWIPZN_3EOckw3q0pTfDHbspRZug4FYF7h2HczyBR730dmSIHus73cq4kkxGNMBDlRW4WiPpw",
+      "elo": 220717.4375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "Og974N5B6ERZsGUuVOkHrrlqyINqZiGmgJohL4zv0IJLeCtaxAsObxMkEtY6YwcdQxqgM5biEWnwsg",
+      "elo": 154654.35,
+      "position": "TOP"
+    },
+    {
+      "puuid": "fHPcSeiJUy10UNrm8TeVz12WYDnPglMp8UktkKk_CNMuH5ZRX5uFjbMJ0hmo4H2dGtd4SR38pKVZAg",
+      "elo": 311618.5375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "cDvo69U6qI8b36ubdiY-GG5vpldCRN9Bl1w80R2ZhI-zwKP6LH06vHxuXMPpYwGUjt0PNY3Xsk8teA",
+      "elo": 278143.75,
+      "position": "TOP"
+    },
+    {
+      "puuid": "baq0Dx0K8Ke3TJxuFsF6JHEY-uyRuWtGyojANq9e5qO0vY2qUIOS0d5mAxgCvtFUhmaPkYualWEj0A",
+      "elo": 51433.725,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "KqfCpIZhuxWgJChuWtCmfyvvmbaFoNSuh-QIaJp2nB4y2LcqXeRU7PoNmm1pD7jmRLp57-gk2PoSxA",
+      "elo": 230460.1875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "-g01zxvJZzpuVQEW102Dqozy3lsH3D1o4YVLIamuagfiIZFHa2pPJufiQ3riZ1zwin1YrSG2qb8FuQ",
+      "elo": 427199.025,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "WBDrp_rO79ASht5HY34u47CGKx37T_H5ruB-0KTekLMiJiX_nMV9pHNvunVl0ZQRiNBFCmkTQaZOuQ",
+      "elo": 221281.6125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "G8lEQpKLbqMdU5PscLDyjUaBxjAyOGKpWtbDO0YCJB_0kNBog8M6HrL5e1GwuOxP2vBNkYCPhwYikQ",
+      "elo": 60412.675,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "OQSKqBB-bD6XetKa_UIPlYuT1_bdLOxbHARSt-T6RjBDbMf5VGy9xAjj_fY09116RDsLRV-aVKTTsw",
+      "elo": 117349.296875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "_xNiWeCK0yZCacEJgjygQLRCuR-AfS1o1r8oWaxhzSeVCMPoaIznwXRsU4b7L8S9ncBHuYUBphDE0g",
+      "elo": 266997.4375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "J9P8eXEvH-zBjWOjRIm7FwZuIOyyUJOFhQ_TY9k7JxhYVjDFciMYzXycfaYhafAAqIPCI9fw_FnJww",
+      "elo": 99899.4,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "sG2XaNINnGQK2i9nIKABWWUXoTvjD_u1d_53H_C1xbeMxVm7Nk9fcbNR1LfrCOvaLlvzWQGZux_MQQ",
+      "elo": 161819.125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "NYsLMNURS8xPje6G9QHvp1Byu533X0fJgMTCDHCEgXtvBsUBCWDQwb45O1vnx2atMKzFNiPLdal73g",
+      "elo": 249062.775,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "iWDEnym7hS-z1YShIo5ubWO8gOkajjqHe2O4p9ISrxQEpRaLOH6tCfvUvmsAhV5JtHRBaKtPo1PIHg",
+      "elo": 226567.5,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "Piu0mWHOxrfeeTF8Pl05CqS0lV6G5ICQZyIVwMfCN8aekw48vdTpjgf0JNQSTbCtFicJvAUXe7qj4A",
+      "elo": 194739.53125,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "sptDKegvc1a9N486uLUUnkvmWZZVRGRENTAba_lc0nTFdeoxP4Yc3mVxsqaZdG7SyICxi3c8XpoX2w",
+      "elo": 62602.625,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "jJvU8Gr9IntAymkHPQVtZ58qy5eEtfbKGTmoAu2eFfBnFzKkjTMQkVhmPdv1kQsBmOdUSTFSaC5KRg",
+      "elo": 63443.305555555555,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "zBNQF2JLqXIsfPFEd_KBByl0aNvUDeF_1sOdfa-YfgKVdcOvFVLcPNJ8DL5JGQQYXVPKly6GoRx2fQ",
+      "elo": 102383.0625,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "nsnH7A1p109U6fT2RJWmjLTslxsHBGiJWQNXqAPHmLc0tTVGjLyZOyMH5Z1Uj9aJDVA3bWt1jNAi0w",
+      "elo": 80049.1875,
+      "position": "TOP"
+    },
+    {
+      "puuid": "QYA3P6V0SUDHpfq55wrl_pL2Os5zdecQKjZMuWMlGni_tRfeD-Z-bv3FIGrnCAcZZURc2xZJWjdmkw",
+      "elo": 174110.29166666666,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "Tf7RT0dALwlfuOs5QXoG9YPI2nDPdOqb_Xv4_1IDaMg_GgTcd13wb-W1wNPCTvWnMCbKWgElVj65HA",
+      "elo": 165524.20833333334,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "VXG0G_Gu9_lt_kz2FbYU5PvjF1Djf70-PN5nS8Qw7lkXYmljEl-wDmjeWbdkyUKKdnObb0s8jdnqNw",
+      "elo": 160120.58333333334,
+      "position": "TOP"
+    },
+    {
+      "puuid": "SnGCqJjrOZe9dUsgNW47y0CioiuPjtazJkjpW5GOyR-sdX2up8OOb3bw9Wt89_XTVuoROzPCk-rBgA",
+      "elo": 140515.83333333334,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "fWrKiLWW3XmCipY_twBthyEqgWaFuxlNVz9YLtAF6lOccLWB6_Xvr5nqcpgcSTJz8iXdOZd0vxo9FA",
+      "elo": 47526.875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "MrXTVLvfYgW5pdeOUZQtZqV_lOol_wH33mUGW2f3zrPluc6AZSFAiQ1HLqzeZiIDKdZUObCeQosNhw",
+      "elo": 140433.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "Ig1oa5CeRQe7pa8vxqpQ0hRqEU1F0sFvysVK2eYXlnSWAd1DQu80PW6NEo5R0uKe9xqiT8cLADOVBw",
+      "elo": 194564.52083333334,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "27VeJ8m1Wx2Eyi5XSAMTqJCVynH2CytONtmnqoGoxnqxjJCl63cU9uB-peXiOQQDU0FbmMFGGi0tjg",
+      "elo": 155682.3125,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "fUTtQOujdTaO0teH6zvW520_lwduKnvCgRUg-WPAl9fD_MJjxO_jEftgzqdSmX06R2JGHlReeSbBLg",
+      "elo": 137530.22916666666,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "8BFpza_XjYYWZfRjK1Q4ZxEN0gEcQpYnKGFopOSbXpvw7IJWJYJ4dI10xbTYOvTXI_UPxs3sIagGhw",
+      "elo": 27636.1875,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "XY8Ag4L_dm4RUZWNehrF4jHSrq7bNqgh6Ac8RTPdz7NPnkG7Csu3PEvb7b0m7D4QC6nyiuM3waP6_Q",
+      "elo": 111288.14285714286,
+      "position": "TOP"
+    },
+    {
+      "puuid": "g0IWay8Y3U3gdKHL4QOozI2gJqBo_1NPZO136yD38q5p0mNiH9ZXrIfNvDNNDlCpXggvk3AVngB64A",
+      "elo": 147340.25,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "WDE4YZ4d0H3TB8BPl_axg-RqAC_hcczcQFfmHHYylsUUn8IHHrsIJhmNYPT5h2CPpFT-9D32YgW4rg",
+      "elo": 26876.964285714286,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "qbaT5NOXv-MWEbKrETAdrWkDVSgC0TwQpJA3u6vMeObr8Fb60FVNVWN-MDoF1zUD4l71q3zzMROJyA",
+      "elo": 40133.775,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "P44C92N1QZJSAiWBjwPXanuLRsGV91-k9K7HOAqGYFGUHYRnZCNTfg-0AfQ_0jDKJlDuKx6jGtRdIw",
+      "elo": 241316,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "9jeyb5ZJgEgCaelmGQr2HSf_C3OD_MgdWVd859NEUOLltlmCSdIHJBmSU6fYAUd3_Cw-FiyJVn4vag",
+      "elo": 169895.7,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "kGPFVSMvIR5tknsYmYRgsawB7WoLuQqMn10XbfZgXbblbCaX4COtBlaXIo5s55T5qlJWDzfsuty3Qg",
+      "elo": 32062.104166666668,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "4MiqEi0t4KYlizo0tEPuYTC0CvgcJj-SkytkbfOAJNKZlaCZ5KPx2954X8_B2Xda5H00FEkC3Dt0nw",
+      "elo": 170941.52777777778,
+      "position": "TOP"
+    },
+    {
+      "puuid": "7rq3B0aqYMOO2feJN_qOUCz2O4EXeyIG88ZnRiQ5UaS5KZxbFb2d4M2rmC16k2MIZYpgUvBzFFPpCg",
+      "elo": 68785.875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "PsDE9YkjcaVFqc_pk8hr_4NWwUpwO3vFXEYTfdSvJxgRBg_D4PRt-y7ocKzIZvaHBqazMdaqD5fwJg",
+      "elo": 205231.875,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "7nciBasYULX3ZfR7zONSSmDjhqj9F1g3Br1ElxKpFJZIwqr645SP1usSon23xIldX0NYNcxKTUCBBA",
+      "elo": 211812.25,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "K7PZGV21WiS6YNYe6nXZ498ZiS9jKeun-C3J7X1npMbtpK3xoAMoIgzgnBChhBV9A0PdRoZJQxI-rg",
+      "elo": 169874.2875,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "NzuXdkdnH86tpmVYluykXL4ywJ2QF-aT6EV4t_MhTSLcWFeD5VY-jr1bN6VqFZ49v1y5seycet-jmg",
+      "elo": 56164.9375,
+      "position": "UTILITY"
+    },
+    {
+      "puuid": "5NdpwQH95lFFDULCBDI81zLbIOOE8V2iZHRJ0yE94vEWDFLj2NN2mYf_HixBvIGkVu2D5BeMyj6hSg",
+      "elo": 204650.484375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "_GkYFa_HqYZNYVtPa_fEbjUG2Gy3AGsagRi4gpT9P_r4qRJMSDt3twPJOPSGtTzKTRyYdBhGPoNu9Q",
+      "elo": 119111.625,
+      "position": "TOP"
+    },
+    {
+      "puuid": "BGl39Lkt-IkrSjhdkEhGRClIAOCkdb8Y_J1_MphsZIa5whGYQ5HdCEeP35JkB71UAI9PvBdHBAkg9g",
+      "elo": 229706.25,
+      "position": "TOP"
+    },
+    {
+      "puuid": "SpVgKTLTP6v9LqLQ4oczkWu2M50Mjkh7GsnVWoFSWkzKVeG3lGp0j39VWlqoGm8Dj9kJ91_Y-w8N1A",
+      "elo": 207216.375,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "Ko8g9tKO5rgBWp5aaaArGsheg68R5xHZNAXF2CWBV6O5ghQf257rtNVnWAK91G6nq24YjQDyXo77Mg",
+      "elo": 170097.375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "lbVRX-yiGP78AEOlVMRfm3DRR6m7-xynDJOt4cwYrex7GfmMgk9eVM8eeURAN09p2728XwubRSNszQ",
+      "elo": 202172.7375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "R3SjfwvxRzcZkzhBphbM9uek4oz4B-yjOjiSJk_Ae0N53v2EMQWuhI6JAWz8IHPORDevgzxysxNPug",
+      "elo": 199003.8375,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "e8K0VMOz_td1TIeG62PKY-3gMjvS1WceV6hsn3yutPpf8tTNKShMO605Rx1tkYXO4PHXaog1od1iZA",
+      "elo": 189725,
+      "position": "TOP"
+    },
+    {
+      "puuid": "7AFWURuj_OXBwR0vF0d49ix8ksRzDHU4k4Kjug7hkiD-JKhbgw4Lgv1OTi4v9Cdiq7pJG1o1BD9kEg",
+      "elo": 205658.625,
+      "position": "MIDDLE"
+    },
+    {
+      "puuid": "aXjLuya9XGASY5z9XZeXg_1NuWTr6ZOoxmLcfFlABXsnXr1aFqtuDBNSrUijFBmkj4-rLRYqNPfnVQ",
+      "elo": 202927.07142857142,
+      "position": "JUNGLE"
+    },
+    {
+      "puuid": "LdUleQ4TUk6UBS5pINktZxtWSNQESRpwLMqBz9pG4MhXp3M_XaHooAXS1qwRsmJIyIKUptpqKWYvsw",
+      "elo": 236132.6375,
+      "position": "BOTTOM"
+    },
+    {
+      "puuid": "ZXp5DyZ9XXERNemiEDd0UVN_yZAxr3szs82ayCy5Tffl6V6w98H2h1HC03R2Wh5Mjapb_ql2eH2L4g",
+      "elo": 252425.25,
+      "position": "BOTTOM"
+    }
+  ],
+  "parties": [
+    {
+      "puuid": "fee00cb302804311af9c230d3ed27537",
+      "players": [
+        {
+          "puuid": "uhoRD9wVERCYrNOKt8ESO2MwBolXG6rE-KnSUZ-P4KghB4BVzVPqx-9vWHp5E3JAvgGFhSb8j_bdOA",
+          "elo": 117696.9375,
+          "position": "TOP"
+        },
+        {
+          "puuid": "ksFzTlzLAly1O_Q47PKihoNvTgn78N8Bu8WESpWFLL2eFXuR5p2DShHn7xjUwMETUVQbxFxQMUDdjQ",
+          "elo": 112774.4375,
+          "position": "MIDDLE"
+        },
+        {
+          "puuid": "24fIORO-5n9f0B7LnE0wbNoAwEQiX-uQhd6lJF5EFFi_iF5qmfFTJf8HTyFB1o9D2ZY9EeBxlx2TzA",
+          "elo": 75552.58333333333,
+          "position": "UTILITY"
+        },
+        {
+          "puuid": "SqZO4et4FAjtBOoOs8WaMSa7IjXbjw19pLuJWmV_Ciq0ozosDlH5cTW69sEKPJL73hT-orHk7a9lLw",
+          "elo": 149791.28125,
+          "position": "JUNGLE"
+        },
+        {
+          "puuid": "QcIZ2usWJLU8aFRJlAnAAs1u_bJqH1y4n33ginfbXBth0a-BEkHiWM0bQZEUXDIlQ_Dr7qS-nZTHuQ",
+          "elo": 149524.75,
+          "position": "BOTTOM"
+        }
+      ],
+      "party_strength": 121067.99791666665,
+      "player_pos": {
+        "TOP": {
+          "puuid": "uhoRD9wVERCYrNOKt8ESO2MwBolXG6rE-KnSUZ-P4KghB4BVzVPqx-9vWHp5E3JAvgGFhSb8j_bdOA",
+          "elo": 117696.9375,
+          "position": "TOP"
+        },
+        "MIDDLE": {
+          "puuid": "ksFzTlzLAly1O_Q47PKihoNvTgn78N8Bu8WESpWFLL2eFXuR5p2DShHn7xjUwMETUVQbxFxQMUDdjQ",
+          "elo": 112774.4375,
+          "position": "MIDDLE"
+        },
+        "UTILITY": {
+          "puuid": "24fIORO-5n9f0B7LnE0wbNoAwEQiX-uQhd6lJF5EFFi_iF5qmfFTJf8HTyFB1o9D2ZY9EeBxlx2TzA",
+          "elo": 75552.58333333333,
+          "position": "UTILITY"
+        },
+        "JUNGLE": {
+          "puuid": "SqZO4et4FAjtBOoOs8WaMSa7IjXbjw19pLuJWmV_Ciq0ozosDlH5cTW69sEKPJL73hT-orHk7a9lLw",
+          "elo": 149791.28125,
+          "position": "JUNGLE"
+        },
+        "BOTTOM": {
+          "puuid": "QcIZ2usWJLU8aFRJlAnAAs1u_bJqH1y4n33ginfbXBth0a-BEkHiWM0bQZEUXDIlQ_Dr7qS-nZTHuQ",
+          "elo": 149524.75,
+          "position": "BOTTOM"
+        }
+      }
+    },
+    {
+      "puuid": "a37a415d68b4401eaeb7001062057e27",
+      "players": [
+        {
+          "puuid": "k-Hi00wgIM3cWaP4wWoac-hNJTqMuDbVHdL1SgIf8Lpzdni1KXVwFk5a4_6FSNFJVHC7ras8nA8r_w",
+          "elo": 101040.7625,
+          "position": "TOP"
+        },
+        {
+          "puuid": "umkTFLQEaCJh9L7BYKW4hysNYFfJe7l2YWpKwgfswZ0QnY38E3BYsoxGb1FbFvoi8j7go-B0USoyGQ",
+          "elo": 68951.25,
+          "position": "MIDDLE"
+        },
+        {
+          "puuid": "MbZ9klxdQexHcZZR1GuHR9rP_NSk3mO3IFAK8J-yNxlqqYufuCApM7ZJmhQosxIb3zWX8hd51oqkzQ",
+          "elo": 50218.3125,
+          "position": "UTILITY"
+        },
+        {
+          "puuid": "OlL-fK5MSUYMoGK8DcYwODlnhb6YS7L2mKhWcrB-NonBcVYqR-4P0ZLYaYKVTU_1r8CSxCZ2i3MDvA",
+          "elo": 51636.375,
+          "position": "JUNGLE"
+        },
+        {
+          "puuid": "C1fj5mKjLlDbxrl8eCdxQ0pFppts_1EE8oz6pOFvafuh64SvAnBRUj_NL3b4u2gJdybYyJJHyXuBwg",
+          "elo": 93013.72222222222,
+          "position": "BOTTOM"
+        }
+      ],
+      "party_strength": 72972.08444444444,
+      "player_pos": {
+        "TOP": {
+          "puuid": "k-Hi00wgIM3cWaP4wWoac-hNJTqMuDbVHdL1SgIf8Lpzdni1KXVwFk5a4_6FSNFJVHC7ras8nA8r_w",
+          "elo": 101040.7625,
+          "position": "TOP"
+        },
+        "MIDDLE": {
+          "puuid": "umkTFLQEaCJh9L7BYKW4hysNYFfJe7l2YWpKwgfswZ0QnY38E3BYsoxGb1FbFvoi8j7go-B0USoyGQ",
+          "elo": 68951.25,
+          "position": "MIDDLE"
+        },
+        "UTILITY": {
+          "puuid": "MbZ9klxdQexHcZZR1GuHR9rP_NSk3mO3IFAK8J-yNxlqqYufuCApM7ZJmhQosxIb3zWX8hd51oqkzQ",
+          "elo": 50218.3125,
+          "position": "UTILITY"
+        },
+        "JUNGLE": {
+          "puuid": "OlL-fK5MSUYMoGK8DcYwODlnhb6YS7L2mKhWcrB-NonBcVYqR-4P0ZLYaYKVTU_1r8CSxCZ2i3MDvA",
+          "elo": 51636.375,
+          "position": "JUNGLE"
+        },
+        "BOTTOM": {
+          "puuid": "C1fj5mKjLlDbxrl8eCdxQ0pFppts_1EE8oz6pOFvafuh64SvAnBRUj_NL3b4u2gJdybYyJJHyXuBwg",
+          "elo": 93013.72222222222,
+          "position": "BOTTOM"
+        }
+      }
+    },
+    {
+      "puuid": "ac82ab21e7db4d3e90470e146688bd36",
+      "players": [
+        {
+          "puuid": "iu9nqu7QB0KTl47jL5OWjI1d2FbP7TaSkWqK5qwJKnWGU-yfLtQfKdSWBDf45aul4m1T7QWlzO_TyQ",
+          "elo": 95247.8125,
+          "position": "TOP"
+        },
+        {
+          "puuid": "qX2Y5W-Z9dJ0zNIHicFWvLKM-4RgDiQyvFYmGIKXKCcoXnZXCO1viCcZNy59k-KYHQ3gX8CFPb-SyA",
+          "elo": 87956.76785714286,
+          "position": "MIDDLE"
+        },
+        {
+          "puuid": "U-IZHLQNOJfPxD-zWOHTe7xVCOGlBKw9kIRdTczQWUEoa8VKkog8a6KJRPmxuEhtv0RWETgJGkz9TA",
+          "elo": 51305.9375,
+          "position": "UTILITY"
+        },
+        {
+          "puuid": "aRRDM4wyguj6dfD1fkSerG6gaGWVb7LLzuyi--3Mcrny6O6ClSaDimGHTfWUEo4Vb4Yr-6p5tP76Ng",
+          "elo": 69358.875,
+          "position": "JUNGLE"
+        },
+        {
+          "puuid": "mtPiZdCSx4cVzuzPNug6Ewj4gWHAj5-RWrIkqfZbkN399p5Ub3ZhtwD3-QbDeeyeVQLDGShaxYYzYg",
+          "elo": 38916,
+          "position": "BOTTOM"
+        }
+      ],
+      "party_strength": 68557.07857142857,
+      "player_pos": {
+        "TOP": {
+          "puuid": "iu9nqu7QB0KTl47jL5OWjI1d2FbP7TaSkWqK5qwJKnWGU-yfLtQfKdSWBDf45aul4m1T7QWlzO_TyQ",
+          "elo": 95247.8125,
+          "position": "TOP"
+        },
+        "MIDDLE": {
+          "puuid": "qX2Y5W-Z9dJ0zNIHicFWvLKM-4RgDiQyvFYmGIKXKCcoXnZXCO1viCcZNy59k-KYHQ3gX8CFPb-SyA",
+          "elo": 87956.76785714286,
+          "position": "MIDDLE"
+        },
+        "UTILITY": {
+          "puuid": "U-IZHLQNOJfPxD-zWOHTe7xVCOGlBKw9kIRdTczQWUEoa8VKkog8a6KJRPmxuEhtv0RWETgJGkz9TA",
+          "elo": 51305.9375,
+          "position": "UTILITY"
+        },
+        "JUNGLE": {
+          "puuid": "aRRDM4wyguj6dfD1fkSerG6gaGWVb7LLzuyi--3Mcrny6O6ClSaDimGHTfWUEo4Vb4Yr-6p5tP76Ng",
+          "elo": 69358.875,
+          "position": "JUNGLE"
+        },
+        "BOTTOM": {
+          "puuid": "mtPiZdCSx4cVzuzPNug6Ewj4gWHAj5-RWrIkqfZbkN399p5Ub3ZhtwD3-QbDeeyeVQLDGShaxYYzYg",
+          "elo": 38916,
+          "position": "BOTTOM"
+        }
+      }
+    },
+    {
+      "puuid": "9dfedd43cad84c90a00c723ad6206fa2",
+      "players": [
+        {
+          "puuid": "VPUgwo7oxAsYXjwGwKn3nK5EmI90Bj5XWL1AHVABHv1reiB1_wF33g5v9Tf60eqpRv-XD6p1n2gltA",
+          "elo": 2691.375,
+          "position": "TOP"
+        },
+        {
+          "puuid": "j4fEtbcrkGFuQpqcMViY5oojm6-mXfC5IGmwLSTmEUwefYRmFXvbakBpc9sL78Z8uzToflYcymQiDw",
+          "elo": 37423.5,
+          "position": "MIDDLE"
+        },
+        {
+          "puuid": "Q2-eGsKpQ2P5HPahrRf5XiUs_6OOQvoTWVng1xhE-Y1JrBH-AdEq2iK4kyoPkzSm7mRHPfpB56e8Ig",
+          "elo": 35859,
+          "position": "UTILITY"
+        },
+        {
+          "puuid": "riwBZ4dRBBv4z391KzhmEY9SBnz6HOXw5nhzAnSRi2tOmA-63qTOR5N1dPFaX3SXwRaDHNkDDZijlw",
+          "elo": 57853.875,
+          "position": "JUNGLE"
+        },
+        {
+          "puuid": "3V05ji0ZI9z_KUn1S_3CV4J0NnUzhvjeNceZleZF9uBFD0v_BwcWDRkVXor1LNq8ccFK7hmj52Hr9Q",
+          "elo": 23844,
+          "position": "BOTTOM"
+        }
+      ],
+      "party_strength": 31534.35,
+      "player_pos": {
+        "TOP": {
+          "puuid": "VPUgwo7oxAsYXjwGwKn3nK5EmI90Bj5XWL1AHVABHv1reiB1_wF33g5v9Tf60eqpRv-XD6p1n2gltA",
+          "elo": 2691.375,
+          "position": "TOP"
+        },
+        "MIDDLE": {
+          "puuid": "j4fEtbcrkGFuQpqcMViY5oojm6-mXfC5IGmwLSTmEUwefYRmFXvbakBpc9sL78Z8uzToflYcymQiDw",
+          "elo": 37423.5,
+          "position": "MIDDLE"
+        },
+        "UTILITY": {
+          "puuid": "Q2-eGsKpQ2P5HPahrRf5XiUs_6OOQvoTWVng1xhE-Y1JrBH-AdEq2iK4kyoPkzSm7mRHPfpB56e8Ig",
+          "elo": 35859,
+          "position": "UTILITY"
+        },
+        "JUNGLE": {
+          "puuid": "riwBZ4dRBBv4z391KzhmEY9SBnz6HOXw5nhzAnSRi2tOmA-63qTOR5N1dPFaX3SXwRaDHNkDDZijlw",
+          "elo": 57853.875,
+          "position": "JUNGLE"
+        },
+        "BOTTOM": {
+          "puuid": "3V05ji0ZI9z_KUn1S_3CV4J0NnUzhvjeNceZleZF9uBFD0v_BwcWDRkVXor1LNq8ccFK7hmj52Hr9Q",
+          "elo": 23844,
+          "position": "BOTTOM"
+        }
+      }
+    },
+    {
+      "puuid": "5f4fd395e081435db1db558f7b665c30",
+      "players": [
+        {
+          "puuid": "pUbgG707CvPda9eJLeIG_WwnpT96Q6nhKWnH70OlyKW_SbopHv6k7D6h44sIDF6ZvUMCmotC6FuZsQ",
+          "elo": 8074.2,
+          "position": "TOP"
+        },
+        {
+          "puuid": "2s9sshYZ8QuZrenFv6ggCJDyt4EhBKfJ7RCPlu_6LKyUnbrh89JXISdScaDcAO0Ra2Zo8hQNI53TEQ",
+          "elo": 55365.375,
+          "position": "MIDDLE"
+        },
+        {
+          "puuid": "Ez110roR7JjZY5vAVRvBtsMhfZ96J421C8-nqbQiHkPPMaTpTKjX0WRzmerPUXi0PDpTwPpIIKIXSw",
+          "elo": 30149.041666666668,
+          "position": "UTILITY"
+        },
+        {
+          "puuid": "kej61y5OaqTAbbo9li_qWwxvrn5bSjgaTvSCbRWB5IkXbRCU0mqKV-TF5XnwvAp2xUqk-6YNS5cLJw",
+          "elo": 64704.75,
+          "position": "JUNGLE"
+        },
+        {
+          "puuid": "Ar1OufnVv5RgInOJCGPpFoVgnIayUWESQmQbJc8CJ7nf6eehaf1JjEfdW7gRBDp-Oc28VZX11LRHsQ",
+          "elo": 25662.375,
+          "position": "BOTTOM"
+        }
+      ],
+      "party_strength": 36791.14833333333,
+      "player_pos": {
+        "TOP": {
+          "puuid": "pUbgG707CvPda9eJLeIG_WwnpT96Q6nhKWnH70OlyKW_SbopHv6k7D6h44sIDF6ZvUMCmotC6FuZsQ",
+          "elo": 8074.2,
+          "position": "TOP"
+        },
+        "MIDDLE": {
+          "puuid": "2s9sshYZ8QuZrenFv6ggCJDyt4EhBKfJ7RCPlu_6LKyUnbrh89JXISdScaDcAO0Ra2Zo8hQNI53TEQ",
+          "elo": 55365.375,
+          "position": "MIDDLE"
+        },
+        "UTILITY": {
+          "puuid": "Ez110roR7JjZY5vAVRvBtsMhfZ96J421C8-nqbQiHkPPMaTpTKjX0WRzmerPUXi0PDpTwPpIIKIXSw",
+          "elo": 30149.041666666668,
+          "position": "UTILITY"
+        },
+        "JUNGLE": {
+          "puuid": "kej61y5OaqTAbbo9li_qWwxvrn5bSjgaTvSCbRWB5IkXbRCU0mqKV-TF5XnwvAp2xUqk-6YNS5cLJw",
+          "elo": 64704.75,
+          "position": "JUNGLE"
+        },
+        "BOTTOM": {
+          "puuid": "Ar1OufnVv5RgInOJCGPpFoVgnIayUWESQmQbJc8CJ7nf6eehaf1JjEfdW7gRBDp-Oc28VZX11LRHsQ",
+          "elo": 25662.375,
+          "position": "BOTTOM"
+        }
+      }
+    },
+    {
+      "puuid": "a8910ec133e54fb4805da1b4a4b4a0f9",
+      "players": [
+        {
+          "puuid": "dVLUAMJNc2HBEIGzQdllY1dhu-MDo5JFwdOv9AsQ45HpTlTh3g2vUbXH5dqRQ8QGfKOLH_W3B2FGkQ",
+          "elo": 5512.3125,
+          "position": "TOP"
+        },
+        {
+          "puuid": "S1bfGmC-joOb22AtwpVYjCGjJ8RL357uaQixCY2ttELY-Pj7Q448-jia8_Slss2AF1z7vexly-WZKA",
+          "elo": 5832,
+          "position": "MIDDLE"
+        },
+        {
+          "puuid": "TutLtUxtR0sGBqD2r9E40Pp0gEYVkMphyUNtEJ5KO-lbvzVPm0L9rGKx3KVBfASg5ZQNmFlmOUWlFw",
+          "elo": 25147,
+          "position": "UTILITY"
+        },
+        {
+          "puuid": "e3mZwSQQL4yIJFcpGY5PohDifJcF3zoW_P6luGwSSCdn9ozaqytNq158oq-bJKG5wcSil_rewsZvyQ",
+          "elo": 6738,
+          "position": "JUNGLE"
+        },
+        {
+          "puuid": "lPnGYOcQOI_4b5JjJ0vUdRjWtv-fz8m4Pxt6Ruk97d-nvnm-8tNygemR3ODPUBEuDNQSdAp4mOBwdQ",
+          "elo": 53002.875,
+          "position": "BOTTOM"
+        }
+      ],
+      "party_strength": 19246.4375,
+      "player_pos": {
+        "TOP": {
+          "puuid": "dVLUAMJNc2HBEIGzQdllY1dhu-MDo5JFwdOv9AsQ45HpTlTh3g2vUbXH5dqRQ8QGfKOLH_W3B2FGkQ",
+          "elo": 5512.3125,
+          "position": "TOP"
+        },
+        "MIDDLE": {
+          "puuid": "S1bfGmC-joOb22AtwpVYjCGjJ8RL357uaQixCY2ttELY-Pj7Q448-jia8_Slss2AF1z7vexly-WZKA",
+          "elo": 5832,
+          "position": "MIDDLE"
+        },
+        "UTILITY": {
+          "puuid": "TutLtUxtR0sGBqD2r9E40Pp0gEYVkMphyUNtEJ5KO-lbvzVPm0L9rGKx3KVBfASg5ZQNmFlmOUWlFw",
+          "elo": 25147,
+          "position": "UTILITY"
+        },
+        "JUNGLE": {
+          "puuid": "e3mZwSQQL4yIJFcpGY5PohDifJcF3zoW_P6luGwSSCdn9ozaqytNq158oq-bJKG5wcSil_rewsZvyQ",
+          "elo": 6738,
+          "position": "JUNGLE"
+        },
+        "BOTTOM": {
+          "puuid": "lPnGYOcQOI_4b5JjJ0vUdRjWtv-fz8m4Pxt6Ruk97d-nvnm-8tNygemR3ODPUBEuDNQSdAp4mOBwdQ",
+          "elo": 53002.875,
+          "position": "BOTTOM"
+        }
+      }
+    }
+  ],
+  "matches": [
+    {
+      "puuid": "d6b4e13723f8413aac384f0657de516b",
+      "parties": [
+        {
+          "puuid": "ecea4dd7f36b43ea9a21b6f54e6c2080",
+          "players": [
+            {
+              "puuid": "eSENkVd2RZz7UPvDJV4DUGdEesrck79UoqufrU_zbnvzzUh1D6hzhYg9H5XahfUovcKnYhQ-wrRy8Q",
+              "elo": 131855.25,
+              "position": "TOP"
+            },
+            {
+              "puuid": "COFiGhpicYc5NBOQqt76w4byLgqIBo3IbpalTnl7fyaPTCGux2TC8Ok15zJFup77ybnZxiit0-6u3w",
+              "elo": 88231.875,
+              "position": "MIDDLE"
+            },
+            {
+              "puuid": "LgaJboLC72cRegJo-v3uVFgcN03bxr1EeaL2ScvoIenSySBF6vBeGCRNV7OS7fVFLLWukBb_91280A",
+              "elo": 69753.3125,
+              "position": "UTILITY"
+            },
+            {
+              "puuid": "tjn0xgZp-NXT7nnqUkUyFij-WpkuyW0C48R-BueCtsJ96yAlh4h8stN1mC3rOQb5L8GF47huLOX64w",
+              "elo": 130949.625,
+              "position": "JUNGLE"
+            },
+            {
+              "puuid": "4UXXNNnYVIw7-Yy1fUDX4g-HcXCWbg9seluDuuvZYyOjh5ZE81XD96g7RsbKzOnssCWJbKHvAtgBlw",
+              "elo": 100832.625,
+              "position": "BOTTOM"
+            }
+          ],
+          "party_strength": 104324.5375,
+          "player_pos": {
+            "TOP": {
+              "puuid": "eSENkVd2RZz7UPvDJV4DUGdEesrck79UoqufrU_zbnvzzUh1D6hzhYg9H5XahfUovcKnYhQ-wrRy8Q",
+              "elo": 131855.25,
+              "position": "TOP"
+            },
+            "MIDDLE": {
+              "puuid": "COFiGhpicYc5NBOQqt76w4byLgqIBo3IbpalTnl7fyaPTCGux2TC8Ok15zJFup77ybnZxiit0-6u3w",
+              "elo": 88231.875,
+              "position": "MIDDLE"
+            },
+            "UTILITY": {
+              "puuid": "LgaJboLC72cRegJo-v3uVFgcN03bxr1EeaL2ScvoIenSySBF6vBeGCRNV7OS7fVFLLWukBb_91280A",
+              "elo": 69753.3125,
+              "position": "UTILITY"
+            },
+            "JUNGLE": {
+              "puuid": "tjn0xgZp-NXT7nnqUkUyFij-WpkuyW0C48R-BueCtsJ96yAlh4h8stN1mC3rOQb5L8GF47huLOX64w",
+              "elo": 130949.625,
+              "position": "JUNGLE"
+            },
+            "BOTTOM": {
+              "puuid": "4UXXNNnYVIw7-Yy1fUDX4g-HcXCWbg9seluDuuvZYyOjh5ZE81XD96g7RsbKzOnssCWJbKHvAtgBlw",
+              "elo": 100832.625,
+              "position": "BOTTOM"
+            }
+          }
+        },
+        {
+          "puuid": "eb61088595df47b1b6c842f1e3e08745",
+          "players": [
+            {
+              "puuid": "hjalTasef9l8kIdX7dXWziznjwmrfv_OfUGn1kDKac3tbEgfY7H8JFFIPXGTqndeM3ngkGMlvPYugA",
+              "elo": 2933.75,
+              "position": "TOP"
+            },
+            {
+              "puuid": "IcCBjbEutPrsZNCZUg7qeBVK6fkEPsZhB-iQdchdlgn8wa9rNJFtPtr_X1w-E4_5J9LTm8rUwGx8uQ",
+              "elo": 33363,
+              "position": "MIDDLE"
+            },
+            {
+              "puuid": "cWegWX9cAlTTu89tJqlAVTx6UBaXwFvtlZ_vfec9BVCyxwA6uXJI4GW1kS4JXoQU9DX-Y6HQoPhqog",
+              "elo": 29561.25,
+              "position": "UTILITY"
+            },
+            {
+              "puuid": "R-rVA2MDrWRaygrTpZECZgL8Tmr_XVobcMD7Z3QpYiWP7k5F3av1ghFJD1Xv7nYDPdP_vguuSP2Kdg",
+              "elo": 5608.5,
+              "position": "JUNGLE"
+            },
+            {
+              "puuid": "f7k54_yikLisJ7z8xQw6F0Bu0DMxRX-z_AczodWmU6yo7tzMQvkCnKARW14fpAPC-JKbB9Z8LidCJg",
+              "elo": 23680.875,
+              "position": "BOTTOM"
+            }
+          ],
+          "party_strength": 19029.475,
+          "player_pos": {
+            "TOP": {
+              "puuid": "hjalTasef9l8kIdX7dXWziznjwmrfv_OfUGn1kDKac3tbEgfY7H8JFFIPXGTqndeM3ngkGMlvPYugA",
+              "elo": 2933.75,
+              "position": "TOP"
+            },
+            "MIDDLE": {
+              "puuid": "IcCBjbEutPrsZNCZUg7qeBVK6fkEPsZhB-iQdchdlgn8wa9rNJFtPtr_X1w-E4_5J9LTm8rUwGx8uQ",
+              "elo": 33363,
+              "position": "MIDDLE"
+            },
+            "UTILITY": {
+              "puuid": "cWegWX9cAlTTu89tJqlAVTx6UBaXwFvtlZ_vfec9BVCyxwA6uXJI4GW1kS4JXoQU9DX-Y6HQoPhqog",
+              "elo": 29561.25,
+              "position": "UTILITY"
+            },
+            "JUNGLE": {
+              "puuid": "R-rVA2MDrWRaygrTpZECZgL8Tmr_XVobcMD7Z3QpYiWP7k5F3av1ghFJD1Xv7nYDPdP_vguuSP2Kdg",
+              "elo": 5608.5,
+              "position": "JUNGLE"
+            },
+            "BOTTOM": {
+              "puuid": "f7k54_yikLisJ7z8xQw6F0Bu0DMxRX-z_AczodWmU6yo7tzMQvkCnKARW14fpAPC-JKbB9Z8LidCJg",
+              "elo": 23680.875,
+              "position": "BOTTOM"
+            }
+          }
+        }
+      ],
+      "match_strength": 0,
+      "parties_pos": {
+        "RED": {
+          "puuid": "eb61088595df47b1b6c842f1e3e08745",
+          "players": [
+            {
+              "puuid": "hjalTasef9l8kIdX7dXWziznjwmrfv_OfUGn1kDKac3tbEgfY7H8JFFIPXGTqndeM3ngkGMlvPYugA",
+              "elo": 2933.75,
+              "position": "TOP"
+            },
+            {
+              "puuid": "IcCBjbEutPrsZNCZUg7qeBVK6fkEPsZhB-iQdchdlgn8wa9rNJFtPtr_X1w-E4_5J9LTm8rUwGx8uQ",
+              "elo": 33363,
+              "position": "MIDDLE"
+            },
+            {
+              "puuid": "cWegWX9cAlTTu89tJqlAVTx6UBaXwFvtlZ_vfec9BVCyxwA6uXJI4GW1kS4JXoQU9DX-Y6HQoPhqog",
+              "elo": 29561.25,
+              "position": "UTILITY"
+            },
+            {
+              "puuid": "R-rVA2MDrWRaygrTpZECZgL8Tmr_XVobcMD7Z3QpYiWP7k5F3av1ghFJD1Xv7nYDPdP_vguuSP2Kdg",
+              "elo": 5608.5,
+              "position": "JUNGLE"
+            },
+            {
+              "puuid": "f7k54_yikLisJ7z8xQw6F0Bu0DMxRX-z_AczodWmU6yo7tzMQvkCnKARW14fpAPC-JKbB9Z8LidCJg",
+              "elo": 23680.875,
+              "position": "BOTTOM"
+            }
+          ],
+          "party_strength": 19029.475,
+          "player_pos": {
+            "TOP": {
+              "puuid": "hjalTasef9l8kIdX7dXWziznjwmrfv_OfUGn1kDKac3tbEgfY7H8JFFIPXGTqndeM3ngkGMlvPYugA",
+              "elo": 2933.75,
+              "position": "TOP"
+            },
+            "MIDDLE": {
+              "puuid": "IcCBjbEutPrsZNCZUg7qeBVK6fkEPsZhB-iQdchdlgn8wa9rNJFtPtr_X1w-E4_5J9LTm8rUwGx8uQ",
+              "elo": 33363,
+              "position": "MIDDLE"
+            },
+            "UTILITY": {
+              "puuid": "cWegWX9cAlTTu89tJqlAVTx6UBaXwFvtlZ_vfec9BVCyxwA6uXJI4GW1kS4JXoQU9DX-Y6HQoPhqog",
+              "elo": 29561.25,
+              "position": "UTILITY"
+            },
+            "JUNGLE": {
+              "puuid": "R-rVA2MDrWRaygrTpZECZgL8Tmr_XVobcMD7Z3QpYiWP7k5F3av1ghFJD1Xv7nYDPdP_vguuSP2Kdg",
+              "elo": 5608.5,
+              "position": "JUNGLE"
+            },
+            "BOTTOM": {
+              "puuid": "f7k54_yikLisJ7z8xQw6F0Bu0DMxRX-z_AczodWmU6yo7tzMQvkCnKARW14fpAPC-JKbB9Z8LidCJg",
+              "elo": 23680.875,
+              "position": "BOTTOM"
+            }
+          }
+        },
+        "BLUE": {
+          "puuid": "ecea4dd7f36b43ea9a21b6f54e6c2080",
+          "players": [
+            {
+              "puuid": "eSENkVd2RZz7UPvDJV4DUGdEesrck79UoqufrU_zbnvzzUh1D6hzhYg9H5XahfUovcKnYhQ-wrRy8Q",
+              "elo": 131855.25,
+              "position": "TOP"
+            },
+            {
+              "puuid": "COFiGhpicYc5NBOQqt76w4byLgqIBo3IbpalTnl7fyaPTCGux2TC8Ok15zJFup77ybnZxiit0-6u3w",
+              "elo": 88231.875,
+              "position": "MIDDLE"
+            },
+            {
+              "puuid": "LgaJboLC72cRegJo-v3uVFgcN03bxr1EeaL2ScvoIenSySBF6vBeGCRNV7OS7fVFLLWukBb_91280A",
+              "elo": 69753.3125,
+              "position": "UTILITY"
+            },
+            {
+              "puuid": "tjn0xgZp-NXT7nnqUkUyFij-WpkuyW0C48R-BueCtsJ96yAlh4h8stN1mC3rOQb5L8GF47huLOX64w",
+              "elo": 130949.625,
+              "position": "JUNGLE"
+            },
+            {
+              "puuid": "4UXXNNnYVIw7-Yy1fUDX4g-HcXCWbg9seluDuuvZYyOjh5ZE81XD96g7RsbKzOnssCWJbKHvAtgBlw",
+              "elo": 100832.625,
+              "position": "BOTTOM"
+            }
+          ],
+          "party_strength": 104324.5375,
+          "player_pos": {
+            "TOP": {
+              "puuid": "eSENkVd2RZz7UPvDJV4DUGdEesrck79UoqufrU_zbnvzzUh1D6hzhYg9H5XahfUovcKnYhQ-wrRy8Q",
+              "elo": 131855.25,
+              "position": "TOP"
+            },
+            "MIDDLE": {
+              "puuid": "COFiGhpicYc5NBOQqt76w4byLgqIBo3IbpalTnl7fyaPTCGux2TC8Ok15zJFup77ybnZxiit0-6u3w",
+              "elo": 88231.875,
+              "position": "MIDDLE"
+            },
+            "UTILITY": {
+              "puuid": "LgaJboLC72cRegJo-v3uVFgcN03bxr1EeaL2ScvoIenSySBF6vBeGCRNV7OS7fVFLLWukBb_91280A",
+              "elo": 69753.3125,
+              "position": "UTILITY"
+            },
+            "JUNGLE": {
+              "puuid": "tjn0xgZp-NXT7nnqUkUyFij-WpkuyW0C48R-BueCtsJ96yAlh4h8stN1mC3rOQb5L8GF47huLOX64w",
+              "elo": 130949.625,
+              "position": "JUNGLE"
+            },
+            "BOTTOM": {
+              "puuid": "4UXXNNnYVIw7-Yy1fUDX4g-HcXCWbg9seluDuuvZYyOjh5ZE81XD96g7RsbKzOnssCWJbKHvAtgBlw",
+              "elo": 100832.625,
+              "position": "BOTTOM"
+            }
+          }
+        }
+      }
+    }
+  ]
+}]
