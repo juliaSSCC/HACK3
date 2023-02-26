@@ -1,0 +1,16 @@
+.float-parent-element { 
+    width: 50%; 
+} 
+.float-child-element { 
+    float: left; 
+    width: 50%; 
+} 
+.red { 
+    background-color: rgba(223, 3, 3, 0.582); 
+    margin-left: 50%; 
+    
+} 
+.blue { 
+    margin-left: 50%; 
+    background-color: rgba(6, 102, 158, 0.582); 
+}

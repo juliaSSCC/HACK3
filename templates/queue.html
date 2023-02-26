@@ -1,0 +1,89 @@
+<!-- edit.html -->
+<!doctype html>
+<html>
+   <head>
+      <link rel="stylesheet" href="./edit.css">
+   </head>
+   <body>
+      <p>
+         <h2>Queue</h2>
+         <br><br><br>
+         <h3>Match</h3>
+         <form action = "http://localhost:5000/" method = "GET">
+            <input id="submit" type = "submit" value = "Add all" />
+         </form>
+         <div class="float-parent-element">
+            <div class="float-child-element">
+              <div class="red">
+               <table  id="myTable" border = 1>
+                  <p><center><b> Red team </b></center></p>
+               {% for key, value in old_result.items() %}
+                  <tr>
+                     <td> {{ position }} </td>
+                     <td> {{ name }} </td>
+                     <td> {{ elo }} </td>
+                  </tr>
+               {% endfor %}
+            </table>
+            </div>
+            </div>
+            <div class="float-child-element">
+              <div class="blue"><table  id="myTable" border = 1>
+               <p><center><b> Blue team </b></center></p>
+               {% for key, value in old_result.items() %}
+                  <tr>
+                     <td> {{ position2 }} </td>
+                     <td> {{ name2 }} </td>
+                     <td> {{ elo2 }} </td>
+                  </tr>
+               {% endfor %}
+            </table></div>
+            </div>
+          </div>
+         </p>
+
+
+          <br><br><br><br><br><br><br><br><br>
+          <h3>NAME</h3>
+          <form action = "http://localhost:5000/" method = "POST">
+            <p><label>Player name</label> <input type = "text" name = "player_name" value = {{obj.player_name}} /></p>
+            
+               <input id="submit" type = "submit" value = "Add player" />
+         </form>
+
+          <table id="myTable" border = 1 style="background-color:rgba(91, 5, 141, 0.616); width:60%" >
+            {% for ttl in headings %}
+                <td><center><b> {{ ttl }} </b></center></td> 
+            {% endfor %}
+            {% for key, value in dict.items() %}
+
+            <tr>
+
+               {% for k, v in value.items() %}
+                  {% if k == 'summoner_name' %}
+                     <td > <center> <a href="http://localhost:5000/player/{{v}}">{{ v }}</a> <center> </td>
+                  {%else%}
+                     <td> <center> {{ v }} </center> </td>
+                  {%endif%}
+
+               {% endfor %}
+            </tr>
+            {% endfor %}
+            
+       </table>
+<br><br><br><br><br>
+<h3>NAME3</h3>
+<p>
+   <table  id="myTable" border = 1 style="background-color:rgba(13, 143, 30, 0.473); width:60%">
+   {% for key, value in old_result.items() %}
+      <tr>
+         <td> {{ position }} </td>
+         <td> {{ name }} </td>
+         <td> {{ elo }} </td>
+      </tr>
+   {% endfor %}
+</table>
+</p>
+
+   </body>
+</html>
