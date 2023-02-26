@@ -375,6 +375,13 @@ class MatchData:
         return self
 
 class Player:
+    def to_dict(self):
+        d={
+            "puuid":self.puuid,
+            "elo":self.elo,
+            "position":self.position,
+        }
+        return d
     
     def __init__(self,puuid=None,elo=None,position=None) -> None:
         self.puuid:str=puuid
@@ -385,6 +392,16 @@ class Player:
 
 class Party:
     max_disparity=50000
+    
+    def to_dict(self):
+        d={
+            "puuid":self.puuid,
+            "players":[el.to_dict() for el in self.players],
+            "party_strength":self.party_strength,
+            "player_pos":{k: v.to_dict() for k,v in self.player_pos.items()},
+        }
+        return d
+    
     def __init__(self) -> None:
         
         self.puuid:str=None
@@ -483,48 +500,18 @@ class Party:
             print("Not enough similar players, no one is filling",pos)
             return False
         self.add_player(mmq[0],pos)
-    
-   
-class MatchmakingQueue:
-    players:list[Player]=None
-    parties:list[Party]=None
-    
-    @staticmethod
-    def add_player(p:Player):
-        
-        if MatchmakingQueue.players is None:
-            MatchmakingQueue.players=[]
-        if not any(pl.puuid == p.puuid for pl in MatchmakingQueue.players):
-            MatchmakingQueue.players.append(p)
-            print(f"adding {p.puuid} to queue,{len(MatchmakingQueue.players)} on queue")
-    
-    @staticmethod
-    def remove_player(p:Player):
-        for el in MatchmakingQueue.players:
-            if el.puuid==p.puuid:
-                MatchmakingQueue.players.remove(el)
-                print(f"removing {p.puuid} from queue,{len(MatchmakingQueue.players)} on queue")
-        if len(MatchmakingQueue.players)==0:
-            MatchmakingQueue.players=None
-                
-    def add_party(p:Party):
-        if MatchmakingQueue.parties is None:
-            MatchmakingQueue.parties=[]
-        if not any(pl.puuid == p.puuid for pl in MatchmakingQueue.parties):
-            MatchmakingQueue.parties.append(p)
-            print(f"adding {p.puuid} to queue,{len(MatchmakingQueue.parties)} on queue")
-    
-    @staticmethod
-    def remove_party(p:Party):
-        for el in MatchmakingQueue.parties:
-            if el.puuid==p.puuid:
-                MatchmakingQueue.parties.remove(el)
-                print(f"removing {p.puuid} from queue,{len(MatchmakingQueue.parties)} on queue")
-        if len(MatchmakingQueue.parties)==0:
-            MatchmakingQueue.parties=None
-    
-   
+  
 class Match:
+    
+    def to_dict(self):
+        d={
+            "puuid":self.puuid,
+            "parties":[el.to_dict() for el in self.parties],
+            "match_strength":self.match_strength,
+            "parties_pos":{k: v.to_dict() for k,v in self.parties_pos.items()}
+        }
+        return d
+    
     max_disparity=50000
     def __init__(self) -> None:
         
@@ -549,6 +536,8 @@ class Match:
         res=res and self.find_red()
         if not res:
             self.destroy_match()
+        else:
+            MatchmakingQueue.add_match(self)
         return res
         pass
         
@@ -602,5 +591,70 @@ class Match:
         return False
         pass
     
+class MatchmakingQueue:
     
+    @staticmethod
+    def to_dict():
+        d={
+            "players":[el.to_dict() for el in MatchmakingQueue.players] if MatchmakingQueue.players is not None else [],
+            "parties":[el.to_dict() for el in MatchmakingQueue.parties] if MatchmakingQueue.parties is not None else [] ,
+            "matches":[el.to_dict() for el in MatchmakingQueue.matches] if MatchmakingQueue.matches is not None else [],
+        }
+        return d
+    
+    players:list[Player]=None
+    parties:list[Party]=None
+    matches:list[Match]=None
+    
+    @staticmethod
+    def add_player(p:Player):
+        
+        if MatchmakingQueue.players is None:
+            MatchmakingQueue.players=[]
+        if not any(pl.puuid == p.puuid for pl in MatchmakingQueue.players):
+            MatchmakingQueue.players.append(p)
+            print(f"adding {p.puuid} to queue, {len(MatchmakingQueue.players)} on queue")
+    
+    @staticmethod
+    def remove_player(p:Player):
+        for el in MatchmakingQueue.players:
+            if el.puuid==p.puuid:
+                MatchmakingQueue.players.remove(el)
+                print(f"removing {p.puuid} from queue, {len(MatchmakingQueue.players)} on queue")
+        if len(MatchmakingQueue.players)==0:
+            MatchmakingQueue.players=None
+                
+    def add_party(p:Party):
+        if MatchmakingQueue.parties is None:
+            MatchmakingQueue.parties=[]
+        if not any(pl.puuid == p.puuid for pl in MatchmakingQueue.parties):
+            MatchmakingQueue.parties.append(p)
+            print(f"adding {p.puuid} to queue, {len(MatchmakingQueue.parties)} on queue")
+    
+    @staticmethod
+    def remove_party(p:Party):
+        for el in MatchmakingQueue.parties:
+            if el.puuid==p.puuid:
+                MatchmakingQueue.parties.remove(el)
+                print(f"removing {p.puuid} from queue, {len(MatchmakingQueue.parties)} on queue")
+        if len(MatchmakingQueue.parties)==0:
+            MatchmakingQueue.parties=None
+            
+    def add_match(m:Match):
+        if MatchmakingQueue.matches is None:
+            MatchmakingQueue.matches =[]
+        if not any(pl.puuid == m.puuid for pl in MatchmakingQueue.matches):
+            MatchmakingQueue.matches.append(m)
+            print(f"adding {m.puuid} to ongoing matches, {len(MatchmakingQueue.matches)} matches happening")
+    
+    @staticmethod
+    def remove_match(m:Match):
+        for el in MatchmakingQueue.matches:
+            if el.puuid==m.puuid:
+                MatchmakingQueue.matches.remove(el)
+                print(f"stopping {m.puuid}, {len(MatchmakingQueue.matches)} matches happening")
+        if len(MatchmakingQueue.parties)==0:
+            MatchmakingQueue.parties=None
+    
+   
     

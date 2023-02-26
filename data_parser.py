@@ -102,17 +102,25 @@ def populate_leaderboard(matches:Cursor,board:Collection):
             add_statistics_to_leaderboard(ps,board)
         pass
 
-def create_pool(board:Collection):
+def create_pool(board:Collection,queue:Collection):
     players=board.find({})
     for p in players:
         ps=PlayerStatistics(p)
         add_player_to_queue(ps)
+    queue.insert_one(MatchmakingQueue.to_dict())
     pass
 
-def create_n_parties(n):
+def clean_queue(queue:Collection):
+    queue.drop()
+    pass
+
+def create_n_parties(n,queue:Collection):
     for _ in range(n):
         p=Party()
+    queue.replace_one({},MatchmakingQueue.to_dict())
+        
 
-def create_n_matches(n):
+def create_n_matches(n,queue:Collection):
     for _ in range(n):
         m=Match()
+    queue.replace_one({},MatchmakingQueue.to_dict())
