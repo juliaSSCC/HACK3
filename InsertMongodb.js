@@ -1,4 +1,4 @@
-import { MongoClient } from 'mongodb';
+var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://4.tcp.eu.ngrok.io:18012/";
 
 MongoClient.connect(url, function(err, db) {
