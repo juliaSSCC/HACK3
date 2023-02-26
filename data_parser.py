@@ -42,6 +42,7 @@ def parse_lol_match_data(match_json:dict)->MatchData:
         #print(f"{calculate_player_score(player_data):10.3f}")
         player_data.score(calculate_player_score(player_data))
         player_data.match(match_id)
+        player_data.set_date(date)
         players.append(player_data)
         #print(player_data.to_dict())
         

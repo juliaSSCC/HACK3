@@ -30,6 +30,7 @@ class PlayerMatchData:
             "score": self.battle_score,
             "match_id":self.match_id,
             "summoner_name":self.player, 
+            "date":self.date,
         }
         return d
     
@@ -57,6 +58,7 @@ class PlayerMatchData:
         self.battle_score = data["score"]
         self.match_id = data["match_id"]
         self.player = data["summoner_name"] 
+        self.date:datetime=data["date"]
     
     def __repr__(self) -> str:
         return f"player {self.puuid}"
@@ -86,6 +88,7 @@ class PlayerMatchData:
         self.battle_score:int=None
         self.match_id:str=None
         self.player:str=None
+        self.date:datetime=None
         if (data is not None):
             self.load(data)
         
@@ -163,6 +166,9 @@ class PlayerMatchData:
         return self
     def name(self,v:str):
         self.player=v
+        return self
+    def set_date(self,v:datetime):
+        self.date=datetime.fromtimestamp(v/1000)
         return self
 
     
