@@ -3,7 +3,7 @@ const fs = require("fs");
 
 let summonerName = new Set();
 
-let json = require('/Users/mvpst/OneDrive/Documentos/HACK3/lolMatch.json');
+let json = require('Data/lolMatch.json');
 
 for (var i=0 in json) {
   let users = json[i].details.info.participants
