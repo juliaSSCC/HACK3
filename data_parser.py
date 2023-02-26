@@ -125,3 +125,6 @@ def create_n_matches(n,queue:Collection):
     for _ in range(n):
         m=Match()
     queue.replace_one({},MatchmakingQueue.to_dict())
+    
+def update_season_size():
+    pass

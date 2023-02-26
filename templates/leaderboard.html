@@ -1,0 +1,49 @@
+<!-- print.html  -->
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/print.css') }}">
+     </head>
+   <body>
+
+    
+       <center>
+      <p>
+         <h2>League of Legends Leaderboard for the season</h2>
+         <center>
+            <form action="http://localhost:5000/queue">
+                <p><input type = "submit" 
+                          id="submit"
+                          value = "Go to Queue"  /></p> 
+            </form>
+        </center>
+         <br><br>
+         <table id="myTable" border = 1 style="background-color:rgb(7, 117, 151); width:60%" >
+            {% for ttl in headings %}
+                <td><center><b> {{ ttl }} </b></center></td> 
+            {% endfor %}
+            {% for key, value in dict.items() %}
+                
+
+
+            <tr>
+
+                            {% for k, v in value.items() %}
+                                {% if k == 'summoner_name' %}
+                                    <td > <center> <a href="http://localhost:5000/player/{{v}}">{{ v }}</a> <center> </td>
+                                {%else%}
+                                    <td> <center> {{ v }} </center> </td>
+                                {%endif%}
+
+                            {% endfor %}
+            </tr>
+            {% endfor %}
+            
+         </table>
+      </p>
+      </center>
+   </body>
+
+   <br><br><br>
+    
+
+<html>
